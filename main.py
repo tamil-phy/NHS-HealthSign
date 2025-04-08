@@ -6,17 +6,11 @@ import datetime
 import hashlib
 import openai
 from fuzzywuzzy import fuzz
-from tqdm import tqdm  # <-- Import tqdm for progress bars
-
-# import pdf2md
+from tqdm import tqdm
 
 logging.basicConfig(level=logging.INFO)
 
-# ------------------------------------------------------------------------------
-# Global configuration and LLM helper
-# ------------------------------------------------------------------------------
-# Define the file path for the read codes file
-READCODE_PATH = "/Users/tamilarasan/Projects/nunmi/insurance_uw/medical-underwriting/new/red_flag_read_codes_subset.json"
+READCODE_PATH = "red_flag_read_codes_subset.json"
 
 def get_api_key(api):
     with open("secrets.json") as f:
@@ -34,18 +28,9 @@ def talk_to_llm(messages, text):
         text=text,
         temperature=0
     )
-    # Assume response.output_text is a valid JSON string
     return json.loads(response.output_text)
 
-# ------------------------------------------------------------------------------
-# Reading and preprocessing markdown file with date extraction
-# ------------------------------------------------------------------------------
 def parse_markdown(file_path):
-    """
-    Parse a markdown file that uses date headings (e.g., "## 18 March 2024")
-    to tag subsequent lines. For every non-heading line, we prepend the current
-    date (if available) in the format "[date]: " to be used later in extraction.
-    """
     lines = []
     current_date = None
     with open(file_path, 'r') as f:
@@ -63,34 +48,20 @@ def parse_markdown(file_path):
     return lines
 
 def read_markdown_lines(file_path):
-    """Parse markdown file and return the processed lines with date tags."""
     return parse_markdown(file_path)
 
-# ------------------------------------------------------------------------------
-# LLM Extraction for a single vital measurement using its separate JSON definition
-# ------------------------------------------------------------------------------
 def extract_vital_by_alias(vital_test_name, vital_details, lines):
-    """
-    For a given vital measurement (with its aliases and allowed units),
-    filter out lines containing any alias and then pass the subset to the LLM
-    for extraction.
-    """
     alias_list = vital_details.get("aliases", [])
     unit_list = vital_details.get("units", [])
-    
-    # Filter lines that contain any alias (case-insensitive)
     matching_lines = []
     for line in lines:
         for alias in alias_list:
             if alias.lower() in line.lower():
                 matching_lines.append(line)
                 break
-
     if not matching_lines:
         return None
-
     text_subset = "\n".join(matching_lines)
-    
     prompt = f"""
 You are an assistant tasked with extracting the vital measurement "{vital_test_name}" from the text below.
 The text may include multiple measurements with dates. If a date is present it will be in the format "[date]:" at the beginning of the line.
@@ -99,7 +70,6 @@ Extract for each occurrence:
   - the measurement value,
   - the measurement unit (allowed units: {', '.join(unit_list)}),
   - and the full matching line as context.
-**Important:** Use only the provided text and do not hallucinate any extra fields.
 Return only JSON in the following structure (without extra fields):
 
 {{
@@ -118,7 +88,6 @@ Return only JSON in the following structure (without extra fields):
         {"role": "system", "content": prompt},
         {"role": "user", "content": text_subset}
     ]
-    
     schema = {
         "type": "object",
         "properties": {
@@ -141,7 +110,6 @@ Return only JSON in the following structure (without extra fields):
         "required": ["vital_name", "measurements"],
         "additionalProperties": False
     }
-    
     response = talk_to_llm(
         messages,
         {"format": {
@@ -157,12 +125,9 @@ def extract_all_vitals(file_path, vital_lookup_file):
     lines = read_markdown_lines(file_path)
     with open(vital_lookup_file, 'r') as f:
         vital_lookup = json.load(f)
-    
     all_results = []
-    # Wrap the outer loop with tqdm for progress on categories
     for category, cat_data in tqdm(vital_lookup.items(), desc="Processing Vital Categories"):
         tests = cat_data.get("tests", {})
-        # Wrap the inner loop with tqdm for progress on tests (set leave=False to keep output clean)
         for test_name, test_details in tqdm(tests.items(), desc="Processing Tests", leave=False):
             logging.info(f"Extracting {test_name} ...")
             result = extract_vital_by_alias(test_name, test_details, lines)
@@ -170,9 +135,6 @@ def extract_all_vitals(file_path, vital_lookup_file):
                 all_results.append(result)
     return {"vitals": all_results}
 
-# ------------------------------------------------------------------------------
-# Major Disease Extraction using Read Codes (regex-based)
-# ------------------------------------------------------------------------------
 def match_read_code_in_line(line, code, description):
     if len(line.strip()) < 10:
         return False
@@ -211,9 +173,6 @@ def enrich_lines_with_read_codes(parsed_lines, readcode_dict):
                 break
     return enriched
 
-# ------------------------------------------------------------------------------
-# Timeline (Chronology) Summary using LLM with Chunking
-# ------------------------------------------------------------------------------
 def generate_summary_chronology_chunked(filepath, output_dir):
     PROMPT = """
     You are summarizing the major clinical events from the NHS report.
@@ -221,8 +180,6 @@ def generate_summary_chronology_chunked(filepath, output_dir):
     but do not mention anything about insurance or underwriting in your response.
     Avoid duplicate events; when you find multiple measurements for the same vital, use the latest one.
     Provide a detailed one-paragraph description including diagnosis and numerical test values.
-    **Important: Do not hallucinate any clinical test names, fields, or extra information. Use only the data provided in the input.**
-    Assign the events a significance score on a scale of 1 - 10.
     Return only JSON in the following structure without extra fields.
     """
     events_schema = {
@@ -334,15 +291,11 @@ def chunk_lines(lines, max_tokens=1000):
         chunks.append(current_chunk)
     return chunks
 
-# ------------------------------------------------------------------------------
-# LLM Summary for Major Disease (Read Code) Extraction
-# ------------------------------------------------------------------------------
 def generate_summary_major_disease_llm(read_code_data, output_dir):
     PROMPT = """
     You are summarizing the major diseases from the NHS report using the provided read code extractions.
     Return the diseases in descending order of relevance.
     Provide a one-paragraph description for each disease that includes the read code, description, and date.
-    **Important: Do not hallucinate any information; use only the provided data.**
     Return only JSON in the following structure without extra fields.
     """
     schema = {
@@ -392,9 +345,6 @@ def generate_summary_major_disease_llm(read_code_data, output_dir):
     )
     return response
 
-# ------------------------------------------------------------------------------
-# Session management helpers
-# ------------------------------------------------------------------------------
 def make_session_directory(filename):
     timestamp = datetime.datetime.now().strftime("%Y%m%dT%H%M")
     h = hashlib.new('sha256')
@@ -411,9 +361,6 @@ def write_intermediate_results(output_dir, filepath, text, log_message):
     with open(filepath, 'w') as f:
         f.write(text)
 
-# ------------------------------------------------------------------------------
-# Parse the markdown file (with regex for non-vital lines)
-# ------------------------------------------------------------------------------
 def parse_regexp(text):
     regexps = {
         "coded-entry": r"- Coded entry - (?P<entry>.*)$",
@@ -440,7 +387,7 @@ def parse_markdown(file_path):
     lines = []
     current_date = None
     with open(file_path, 'r') as f:
-        for line_num, line in enumerate(f):
+        for line in f:
             line = line.rstrip()
             tag, groupdict = parse_regexp(line)
             if tag is None and groupdict is None:
@@ -456,79 +403,43 @@ def parse_markdown(file_path):
                     logging.exception(line)
     return lines
 
-# ------------------------------------------------------------------------------
-# Main processing pipeline
-# ------------------------------------------------------------------------------
 def process(input_path, session_dir=None):
     session_dir = session_dir or make_session_directory("output_amma.md")
     os.makedirs(session_dir, exist_ok=True)
-
-    # If PDF, convert to markdown
     if re.search('[pP][dD][fF]', os.path.splitext(args.input)[1]):
         ocr_filepath = f"{args.output_dir}/report.md"
         pdf2md.convert(args.input, ocr_filepath)
         args.input = ocr_filepath
-
     input_path = args.input
     parsed_lines = parse_markdown(input_path)
-
     OUTPUT_PATH = {
-        "code_matches": f"{session_dir}/code_matches.json",    # Major Disease Extraction
-        "vital_matches": f"{session_dir}/vital_matches.json",    # Vitals Extraction (LLM based)
-        "timeline": f"{session_dir}/timeline.json"               # Chronology Summary
+        "code_matches": f"{session_dir}/code_matches.json",
+        "vital_matches": f"{session_dir}/vital_matches.json",
+        "timeline": f"{session_dir}/timeline.json"
     }
-
-    # 1. Major Disease Extraction using Read Codes
     logging.info('Extracting major diseases (read codes) ...')
     with open(READCODE_PATH, 'r') as f:
         READCODE_DICT = json.load(f)
     code_matches = enrich_lines_with_read_codes(parsed_lines, READCODE_DICT)
     with open(OUTPUT_PATH["code_matches"], "w") as f:
         json.dump(code_matches, f, indent=2, ensure_ascii=False)
-
-    # 2. Vitals Extraction (NEW LLM-based approach)
     logging.info('Extracting vitals using LLM ...')
     vitals_extracted = extract_all_vitals(input_path, args.lookup)
     with open(OUTPUT_PATH["vital_matches"], "w") as f:
         json.dump(vitals_extracted, f, indent=2, ensure_ascii=False)
-
-    # 3. Timeline (Chronology) Summary
     logging.info('Generating timeline summary ...')
     timeline_summary = generate_summary_chronology_chunked(input_path, session_dir)
     with open(OUTPUT_PATH["timeline"], "w") as f:
         json.dump(timeline_summary, f, indent=2, ensure_ascii=False)
-
-    # 4. LLM Summaries for Vital Measurements and Major Diseases (Optional)
-    # logging.info('Generating vitals summary using LLM ...')
-    # vitals_summary = generate_summary_vitals_llm(vitals_extracted, session_dir)
-    # with open(f"{session_dir}/vitals_summary.json", "w") as f:
-    #     json.dump(vitals_summary, f, indent=2, ensure_ascii=False)
-
     logging.info('Generating major disease summary using LLM ...')
     major_disease_summary = generate_summary_major_disease_llm(code_matches, session_dir)
     with open(f"{session_dir}/major_disease_summary.json", "w") as f:
         json.dump(major_disease_summary, f, indent=2, ensure_ascii=False)
-
     return OUTPUT_PATH
-
-# ------------------------------------------------------------------------------
-# CLI arguments and scripted main
-# ------------------------------------------------------------------------------
-# def parse_args():
-#     parser = argparse.ArgumentParser(prog='Underwriting Helper')
-#     parser.add_argument('--input', '-i', help='path to Report PDF file', required=True)
-#     parser.add_argument('--lookup', '-l', help='Path to vital lookup JSON file', required=True)
-#     parser.add_argument('--output_dir', '-o', help='Directory to save the results', required=True)
-#     return parser.parse_args()
-
-# if __name__ == "__main__":
-#     args = parse_args()
-#     process(args.input, args.output_dir)
-
 
 if __name__ == "__main__":
     class Args:
-        input = "your_input_file.md"  # Replace with your input file
+        input = "your_input_file.md"
         lookup = "INTERESTED_VITALS.json"
         output_dir = "output_trial"
     args = Args()
