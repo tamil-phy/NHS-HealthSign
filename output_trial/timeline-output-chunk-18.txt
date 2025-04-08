@@ -1,0 +1,205 @@
+Hydroxocobalamin 1mg/1ml solution for injection ampoules - 1 ampoule as per psd
+## 1 January 1900
+Atorvastatin 40mg tablets - 56 tablet - take one daily
+1 January 1900 Clopidogrel 75mg tablets - 56 tablet - take one once daily and as per discharge 10.04.23
+1 January 1900 Lansoprazole 15mg gastro-resistant capsules (A A H Pharmaceuticals Ltd) 56 capsule - take one a day
+1 January 1900 Metformin 500mg modified-release tablets - 56 tablet - Take one daily after food
+1 January 1900 Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd) - 60 dose - inhale 1 dose twice daily
+No further information available.
+You may see medical abbreviations that you are not familiar with.
+<!-- image -->
+Help with abbreviations (Link: https://www.nhs.uk/using-thenhs/nhs-services/the-nhs-app/abbreviations/)
+<!-- image -->
+Back (Link: #)
+## Test result
+Clinician viewed
+06 Jan 2025
+Result type
+Pathology
+Tests
+Urinary microscopy, culture and sensitivities
+Filed by
+UNKNOWN - 11 Jan 2025 16:21
+Result
+Abnormal, but expected
+What you need to do
+Other (on correct abx)
+Specimen
+Specimen Type: Mid-stream urine
+Specimen Reference#: 1
+Specimen Providers Comments: REQUESTED TEST SETS COMPLETE
+Collected: 06 Jan 2025
+Received: 07 Jan 2025
+Provider Sample ID: 25M15005572
+Pathology Investigations
+Urinary microscopy, culture and sensitivities
+Urine culture &gt;10*8 cfu/L of
+Escherichia coli
+ESBL Positive - Isolated 10/01/25
+Amoxycillin (Resistant)
+Co-amoxiclav (Sensitive)
+Cephalexin (Resistant)
+Nitrofurantoin (Sensitive)
+Trimethoprim (Sensitive)
+Ciprofloxacin (Resistant)
+Gentamicin (Resistant)
+Fosfomycin (Sensitive)
+Pivmecillinam (Sensitive)
+Amikacin (Sensitive)
+Urine culture Positive for extended spectrum beta-lactamase which may result in failure of beta-lactam therapy. If further advice is required please discuss with consultant microbiologist.
+Urinary microscopy, culture and sensitivities The accuracy of this result assumes that this is a true MSU specimen.
+Asymptomatic bacteriuria is common in older people - treatment should only be given if symptoms of a
+- urinary tract infection develop.
+General Information
+Service Type: New
+Status: Unspecified
+Provider Report ID: 3-25M15005572-700487
+Report Date: 11 Jan 2025
+Message Recipient
+GP Practice
+Position: Healthcare Organisation
+Ordering Party
+Suchak
+Position: Healthcare Professional
+ID: G7457771
+Message Recipient
+Suchak
+Position: Healthcare Professional
+ID: G7457771
+Laboratory Service Provider Surrey and Sussex NHS Trust Position: Healthcare Organisation
+Laboratory Service Provider General Pathology Position: Department
+## Information About Your Tests
+The links below open a third-party site that provides information on tests Urinary microscopy, culture and sensitivities (Link:
+https://labtestsonline.org.uk/tests/URINE-CULTURE)
+Urine culture (Link: https://labtestsonline.org.uk/tests/URINE-CULTURE)
+Urine culture (Link: https://labtestsonline.org.uk/tests/URINE-CULTURE)
+Urinary microscopy, culture and sensitivities (Link:
+https://labtestsonline.org.uk/tests/URINE-CULTURE)
+You may see medical abbreviations that you are not familiar with.
+<!-- image -->
+Help with abbreviations (Link: https://www.nhs.uk/using-thenhs/nhs-services/the-nhs-app/abbreviations/)
+<!-- image -->
+Back (Link: #)
+## Test result
+| Clinician viewed    | 19 Nov 2024                 |
+|---------------------|-----------------------------|
+| Result type         | Pathology                   |
+| Tests               | FULL LIPID PROFILE          |
+| Filed by            | UNKNOWN - 21 Nov 2024 15:52 |
+| Result              | Normal                      |
+| What you need to do | No Further Action           |
+Specimen
+Specimen Type: Blood
+Specimen Reference#: 1
+Collected: 19 Nov 2024
+Received: 19 Nov 2024
+Provider Sample ID: 24B80413795
+Pathology Investigations
+## FULL LIPID PROFILE
+Serum cholesterol level 2.5 mmol/L; For primary prevention refer to a cardiovascular risk calculator if FH unlikely. For statin treated patients refer to Non-HDL Cholesterol.
+Serum HDL cholesterol level 0.96 mmol/L [1.2 - 5.0]; Below low reference limit
+Serum triglyceride levels 1.1 mmol/L [0.0 - 1.7]
+Serum cholesterol/HDL ratio 2.6
+Serum LDL cholesterol level 1.0 mmol/L
+Serum non high density lipoprotein cholesterol level 1.5 mmol/L; On statin therapy aim for decrease of greater than
+40 % in Non-HDL Cholesterol from baseline (NICE) to an absolute target of &lt; 2.5 mmol/L (JBS3).
+General Information Service Type: New
+Status: Unspecified
+Provider Report ID: 1-24B80413795-594849
+Report Date: 21 Nov 2024
+Message Recipient
+GP Practice
+Position: Healthcare Organisation
+Ordering Party
+GP - GUNASEGARAM JT
+Position: Healthcare Professional
+Message Recipient
+GP - GUNASEGARAM JT
+Position: Healthcare Professional
+Laboratory Service Provider Surrey and Sussex NHS Trust Position: Healthcare Organisation
+Laboratory Service Provider General Pathology Position: Department
+## Information About Your Tests
+The links below open a third-party site that provides information on tests Serum cholesterol level (Link:
+https://labtestsonline.org.uk/tests/CHOLESTEROL-TEST)
+Serum HDL cholesterol level (Link: https://labtestsonline.org.uk/tests/HDLCHOLESTEROL-TEST)
+Serum triglyceride levels (Link:
+https://labtestsonline.org.uk/tests/TRIGLYCERIDES)
+Serum cholesterol/HDL ratio (Link: https://labtestsonline.org.uk/tests/LIPIDPROFILE)
+Serum LDL cholesterol level (Link: https://labtestsonline.org.uk/tests/LDLCHOLESTEROL-TEST)
+You may see medical abbreviations that you are not familiar with.
+<!-- image -->
+Help with abbreviations (Link: https://www.nhs.uk/using-thenhs/nhs-services/the-nhs-app/abbreviations/)
+<!-- image -->
+Back (Link: #)
+## Test result
+Clinician viewed
+19 Nov 2024
+Result type
+Pathology
+Tests
+HBA1C FOR DM DIAGNOSIS
+Filed by
+UNKNOWN - 21 Nov 2024 15:52
+Result
+Normal
+What you need to do
+No Further Action
+Specimen
+Specimen Type: Blood
+Specimen Reference#: 1
+Collected: 19 Nov 2024
+Received: 19 Nov 2024
+Provider Sample ID: 24B80413795
+Pathology Investigations
+HBA1C FOR DM DIAGNOSIS
+Haemoglobin A1c level - IFCC standardised 34 mmol/mol [20.0 - 41.0]; Result does not support diagnosis of T2DM.
+Not recommended for diagnosis in pregnancy, in acutely unwell patients and when type 1 diabetes mellitus is suspected.
+See HbA1c in Diagnosis (WHO,2011) for limitations.
+General Information
+Service Type: New
+Status: Unspecified
+Provider Report ID: 1-24B80413795-594849
+Report Date: 21 Nov 2024
+Message Recipient
+GP Practice Position: Healthcare Organisation
+Ordering Party
+GP - GUNASEGARAM JT
+Position: Healthcare Professional
+Message Recipient
+GP - GUNASEGARAM JT
+Position: Healthcare Professional
+Laboratory Service Provider
+Surrey and Sussex NHS Trust
+Position: Healthcare Organisation
+Laboratory Service Provider
+General Pathology
+Position: Department
+## Information About Your Tests
+The links below open a third-party site that provides information on tests
+Haemoglobin A1c level - IFCC standardised (Link:
+https://labtestsonline.org.uk/tests/HBA1C-TEST)
+You may see medical abbreviations that you are not familiar with.
+<!-- image -->
+Help with abbreviations (Link: https://www.nhs.uk/using-thenhs/nhs-services/the-nhs-app/abbreviations/)
+<!-- image -->
+Back (Link: #)
+## Test result
+Clinician viewed
+07 Mar 2024
+Result type
+Pathology
+Tests
+Haemoglobin A1c level - IFCC standardised
+Filed by
+UNKNOWN - 09 Mar 2024 16:05
+Result
+Normal
+What you need to do
+No Further Action
+Specimen
+Specimen Type: Blood
+Specimen Reference#: 1
+Collected: 07 Mar 2024
+Received: 07 Mar 2024
+Provider Sample ID: 24B80096009
+Pathology Investigations

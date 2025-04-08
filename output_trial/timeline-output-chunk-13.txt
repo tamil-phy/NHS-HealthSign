@@ -1,0 +1,97 @@
+- Medication template - Atorvastatin 20mg tablets - 56 tablet - take one daily; Ended 28 Apr 2023 Change to medication treatment regime by Emma Jones
+- Medication - (R) Atorvastatin 20mg tablets - 56 tablet - take one daily
+## 3 March 2023
+Langley Corner Surgery (General Practice) - Emma Jones (Pharmacist)
+- Coded entry - Patient telephone number (9159.)
+- Coded entry - Short message service text message sent to patient (XaMiI)
+## 24 February 2023
+Langley Corner Surgery (General Practice) - Dr Emma Murphy (Clinical Practitioner Access Role)
+- Coded entry - Patient telephone number (9159.)
+- Coded entry - Short message service text message sent to patient (XaMiI)
+## 24 February 2023
+Langley Corner Surgery (General Practice) - Dr Emma Murphy (Clinical Practitioner Access Role)
+- Coded entry - Telephone consultation (XaIge)
+## 24 February 2023
+Langley Corner Surgery (General Practice) - Dr Emma Murphy (Clinical Practitioner Access Role)
+- Coded entry - Patient telephone number (9159.)
+- Coded entry - Short message service text message sent to patient (XaMiI)
+## 22 February 2023
+Langley Corner Surgery (General Practice) - Hannah Palmer
+- Coded entry - Blood pressure monitoring invitation (XagRC)
+## 22 February 2023
+Langley Corner Surgery (General Practice) - Simone Johnston
+- Coded entry - Quality and Outcomes Framework quality indicatorrelated care invitation (procedure) (Y1f8f)
+## 20 February 2023
+Langley Corner Surgery (General Practice) - Karen Martin (Receptionist Access Role)
+- Coded entry - Patient telephone number (9159.)
+- Coded entry - Short message service text message sent to patient (XaMiI)
+## 20 February 2023
+Langley Corner Surgery (General Practice) - Dr Bilal Ali (Clinical Practitioner Access Role)
+- Coded entry - eConsultation via online application (Y1f3b)
+## 20 February 2023
+Langley Corner Surgery (General Practice) - Dr Bilal Ali (Clinical Practitioner Access Role)
+- Referral out - Hospital Referral to podiatry service
+- Medication - Co-amoxiclav 500mg/125mg tablets - 21 tablet - take one 3 times/day
+- Coded entry - Telephone consultation (XaIge)
+- Coded entry - Provision of advice, assessment or treatment limited due to coronavirus disease 19 caused by severe acute respiratory syndrome coronavirus 2 pandemic (situation) (Y22b6)
+- Coded entry - Referral to podiatry service (XaAdU)
+- Coded entry - Patient given advice (8CA..)
+- Coded entry - Ingrowing nail with infection (M2304)
+## 6 February 2023
+Langley Corner Surgery (General Practice) - Lara Nulty (Receptionist Access Role)
+- Coded entry - Minor: Cellulitis NOS (M03z0) (New Episode)
+## 3 February 2023
+Langley Corner Surgery (General Practice) - Tina Miles (Systems Support Access Role)
+- Medication - (R) Atorvastatin 20mg tablets - 56 tablet - take one daily
+- Medication - (R) Lansoprazole 15mg gastro-resistant capsules (A A H Pharmaceuticals Ltd) - 56 capsule - use once a day
+- Medication - (R) Metformin 500mg tablets - 168 tablet - take one 3 times/day
+- Medication - (R) Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd) - 60 dose - inhale 1 dose twice daily
+## 1 February 2023
+Langley Corner Surgery (General Practice) - Simone Johnston
+- Coded entry - Quality and Outcomes Framework quality indicatorrelated care invitation (procedure) (Y1f8f)
+## 11 January 2023
+Langley Corner Surgery (General Practice) - Simone Johnston
+- Coded entry - Quality and Outcomes Framework quality indicatorrelated care invitation (procedure) (Y1f8f)
+## 5 January 2023
+Langley Corner Surgery (General Practice) - Aleeza Khan (Pharmacist)
+- Coded entry - Patient telephone number (9159.)
+- Coded entry - Short message service text message sent to patient (XaMiI)
+## 3 January 2023
+Langley Corner Surgery (General Practice) - Tina Miles (Systems Support Access Role)
+- Medication - (R) Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd) - 60 dose - inhale 1 dose twice daily
+## 12 December 2022
+Langley Corner Surgery (General Practice) - Tina Miles (Systems Support Access Role)
+- Medication - (R) Atorvastatin 20mg tablets - 56 tablet - take one daily
+- Medication - (R) Lansoprazole 15mg gastro-resistant capsules (A A H Pharmaceuticals Ltd) - 56 capsule - use once a day
+## 1 December 2022
+Langley Corner Surgery (General Practice) - Mrs Amanda Slark (Receptionist Access Role)
+- Medication - (R) Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd) - 60 dose - inhale 1 dose twice daily
+## 10 November 2022
+Langley Corner Surgery (General Practice) - Simone Johnston (Systems Support Access Role)
+- Coded entry - Number of asthma exacerbations in past year (XaINh) 1
+- Coded entry - Never smoked tobacco (XE0oh)
+- Coded entry - Asthma control test (XaQHq) 23
+## 3 November 2022
+Langley Corner Surgery (General Practice) - Simone Johnston (Systems Support Access Role)
+- Coded entry - Asthma monitorng invit SMS (short message servce) txt messge (Xabiu)
+- Coded entry - Patient telephone number (9159.)
+- Coded entry - Short message service text message sent to patient (XaMiI)
+## 1 November 2022
+Langley Corner Surgery (General Practice) - Danny.Ford1 (Danny Ford)
+- Vaccination - Adjuvanted quadrivalent flu vacc (SA, inact) inj 0.5ml pfs (Seqirus UK Ltd) 1 1dose
+- Coded entry - Seasonal influenza vaccin given by other healthcare provider (XaZ0e)
+## 1 November 2022
+Langley Corner Surgery (General Practice) - Danny.Ford1 (Danny Ford)
+- Vaccination - Comirnaty Original/Omicron BA.1 COVID-19 Vacc md vials Booster 0.3ml
+- Coded entry - Immunisation course to maintain protection against SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) (Y2e65)
+## 31 October 2022
+Langley Corner Surgery (General Practice) - Simone Johnston
+- Coded entry - Enhanced review indicated before granting access to own health record (Y2ffe)
+## 17 October 2022
+Langley Corner Surgery (General Practice) - Dr Emma Murphy (Clinical Practitioner Access Role)
+- Medication template - Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd)
+- - 60 dose - inhale 1 dose twice daily; Ended 03 Jul 2023 Re-Authorised by Ms Natalie Greenall
+- Medication - (R) Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd) - 60 dose - inhale 1 dose twice daily
+## 12 October 2022
+Langley Corner Surgery (General Practice) - Simone Johnston (Systems Support Access Role)
+- Coded entry - Patient telephone number (9159.)

@@ -1,0 +1,104 @@
+- Coded entry - Clinical history and observations (X76sV)
+- Coded entry - Plan (XaIVg)
+## 30 January 2025
+Langley Corner Surgery (General Practice) - Dr Bilal Ali (Clinical Practitioner Access Role)
+- Coded entry - No safeguarding issues identified (XaZwt)
+- Coded entry - No apparent risk of suicide (XaZ6R)
+- Coded entry - Has a carer (918F.)
+- Coded entry - Is stable (XaIEF)
+- Coded entry - Agreeing on mental health care plan (Xaa8p)
+- Coded entry - Normal mood (XaIJ4)
+- Coded entry - Memory impairment (X75xU)
+- Coded entry - Telephone consultation (XaIge)
+- Coded entry - Patient given advice (8CA..)
+- Coded entry - Plan (XaIVg)
+- Coded entry - Seen by general practitioner (9N21.)
+- Coded entry - At risk of DSH - deliberate self harm: no (Y09a3)
+- Coded entry - Mental health review (XaIyU)
+- Coded entry - Telephone consultation (XaIge)
+- Coded entry - Mental health medication review (XaJr3)
+- Coded entry - Dementia medication review (XabtQ)
+- Coded entry - No safeguarding issues identified (XaZwt)
+- Coded entry - Chronic disease management annual review completed (Xaagy)
+- Coded entry - Dementia care plan reviewed (XacIy)
+- Coded entry - No (Y0428)
+- Coded entry - Name of care coordinator (Xabmc)
+- Coded entry - Dementia annual review (XaMGF)
+- Coded entry - Normal mood (XaIJ4)
+- Coded entry - Normal behaviour (3AB0.)
+## 21 January 2025
+Langley Corner Surgery (General Practice) - Joanna Chalk
+- Coded entry - Did not attend (Xa1kG)
+## 21 January 2025
+Langley Corner Surgery (General Practice) - Dr Waheba Khan (Clinical Practitioner Access Role)
+- Coded entry - Has authorisation for medication under PSD (XaZ08)
+## 16 January 2025
+Langley Corner Surgery (General Practice) - Susan Dooley (Receptionist Access Role)
+- Medication - (R) Atorvastatin 40mg tablets - 56 tablet - take one daily
+- Medication - (R) Clopidogrel 75mg tablets - 56 tablet - take one once daily and as per discharge 10.04.23
+- Medication - (R) Metformin 500mg modified-release tablets - 168 tablet - take one three times a day
+## 9 January 2025
+Langley Corner Surgery (General Practice) - Simone Johnston
+- Coded entry - Quality and Outcomes Framework quality indicatorrelated care invitation (procedure) (Y1f8f)
+## 9 January 2025
+Langley Corner Surgery (General Practice) - Simone Johnston
+- Coded entry - Quality and Outcomes Framework quality indicatorrelated care invitation (procedure) (Y1f8f)
+## 6 January 2025
+Langley Corner Surgery (General Practice) - Dr Pria Suchak (Clinical Practitioner Access Role)
+- Medication - Fresubin Jucy drink (Flavour Not Specified) - 1600 ml - take one daily
+## 6 January 2025
+Langley Corner Surgery (General Practice) - Dr Pria Suchak (Clinical Practitioner Access Role)
+- Test request - Pathology Request (Request Sent):; Urine Culture C &amp; S MSU (Requested)
+- Medication - Nitrofurantoin 100mg modified-release capsules - 6 capsule - Take ONE capsule TWICE daily for 3 days, to treat infection
+- Coded entry - Renal function tests normal (4511.)
+- Coded entry - Checking drug (Ua1KF)
+## 6 January 2025
+Langley Corner Surgery (General Practice) - Maria Elena Garcia Puig (Nurse Access Role)
+- Coded entry - Influenza immunisation advised (XM1Yn)
+- Coded entry - Review of patient goals (XaXfH)
+- Coded entry - Chronic disease initial assessment (6617.)
+- Coded entry - Normal mood (XaIJ4)
+- Coded entry - Feeling calm (Ua16A)
+- Coded entry - Lifestyle counselling (XaEFY)
+- Coded entry - O/E - R.post.tib pulse absent (24E7.)
+- Coded entry - O/E - R.dorsalis pedis absent (24E9.)
+- Coded entry - 10g monofilament sensation R foot abnormal (XaIeD)
+- Coded entry - O/E - Systolic BP reading (2469.) 130 mmHg
+- Coded entry - O/E - Diastolic BP reading (246A.) 60 mmHg
+- Coded entry - Diabetic foot examination (XaIuE)
+- Coded entry - Chronic disease initial assessment (6617.)
+- Coded entry - Enjoys light exercise (1383.)
+- Coded entry - Patient given exercise advice (XM18T)
+- Coded entry - O/E - height (229..) 1.49 m ( ≈ 4 ' 11 ")
+- Coded entry - O/E - weight (22A..) 31 Kg ( ≈ 4 st 12 lb)
+- Coded entry - Body mass index - observation (22K..) 13.96 Kg/m²
+- Coded entry - Refer to weight management programme (XaJSu)
+- Coded entry - Never smoked tobacco (XE0oh)
+- Coded entry - Lifetime non-drinker (Ub0lH)
+- Coded entry - Diet average (XaCJ0)
+- Coded entry - Lifestyle advice regarding diet (XaQaU)
+- Coded entry - Body mass index less than 20 (XaCDR)
+- Coded entry - Urine dipstick test (4618.)
+- Coded entry - Mid-stream urine sample (X7ADc)
+- Coded entry - Urine: cloudy (4627.)
+- Coded entry - O/E - Left diabetic foot at moderate risk (XaIeR)
+- Coded entry - O/E - Right diabetic foot at moderate risk (XaIeS)
+- Coded entry - Relative is informal carer (XaLSo)
+- Coded entry - Urine leucocyte test = +++ (XaIf5)
+- Coded entry - Urine ketone test negative (4682.)
+- Coded entry - Urine glucose test negative (4662.)
+- Coded entry - MSU sent to lab. (4615.)
+- Coded entry - Urine nitrite test = ++++ (XaLJl)
+- Coded entry - Urine protein test negative (4672.)
+- Coded entry - Urine blood test = negative (4692.)
+- Coded entry - O/E - Right diabetic foot at moderate risk (XaIeS)
+- Coded entry - O/E - L.post.tib. pulse absent (24F7.)
+- Coded entry - O/E - L.dorsalis pedis absent (24F9.)
+- Coded entry - O/E - No foot callus present (XaK20)
+- Coded entry - O/E - No right foot deformity (XaK22)
+- Coded entry - O/E - right healed foot ulcer (XaKGo)
+- Coded entry - 10g monofilament sensation L foot abnormal (XaIeE)
+- Coded entry - O/E - Left diabetic foot at moderate risk (XaIeR)
+- Coded entry - Diabetic foot care education (XabZd)
+- Coded entry - Follow up (XaIjm)
+- Coded entry - O/E - No foot callus present (XaK20)

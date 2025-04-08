@@ -1,0 +1,86 @@
+- Medication - (R) Clopidogrel 75mg tablets - 28 tablet - take one once daily and as per discharge 10.04.23
+- Medication - (R) Gabapentin 300mg capsules - 84 capsule - take one 3 times a day
+- Medication - (R) Lansoprazole 15mg gastro-resistant capsules (A A H Pharmaceuticals Ltd) - 56 capsule - take one a day
+- Medication - (R) Metformin 500mg tablets - 84 tablet - take one 3 times/day
+- Medication - (R) Quetiapine 25mg tablets - 30 tablet - take HALF a tablet (12.5mg) at NIGHT
+- Medication - (R) Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd) - 60 dose - inhale 1 dose twice daily
+## 1 December 2023
+Langley Corner Surgery (General Practice) - Dr Ketan Kansagra (Clinical Practitioner Access Role)
+- Coded entry - Unsuccessful attempt to contact patient by telephone (XaN5W)
+## 16 November 2023
+Langley Corner Surgery (General Practice) - Dr Emma Digman (Clinical Practitioner Access Role)
+- Referral out - Hospital Referral to community leg ulcer clinic
+- Coded entry - Referral to community leg ulcer clinic (XaZOA)
+## 16 November 2023
+Langley Corner Surgery (General Practice) - Dr Emma Digman (Clinical Practitioner Access Role)
+- Referral out - Hospital Referral to elderly falls prevention clinic
+- Coded entry - Referral to elderly falls prevention clinic (XaMGj)
+## 16 November 2023
+Langley Corner Surgery (General Practice) - Ms Natalie Greenall (Pharmacist)
+- Medication - Ferrous sulfate 200mg tablets - 56 tablet - take one once daily
+## 15 November 2023
+Langley Corner Surgery (General Practice) - Dr Emma Digman (Clinical Practitioner Access Role)
+- Medication - Flucloxacillin 500mg capsules - 28 capsule - take one 4 times/day
+## 15 November 2023
+Langley Corner Surgery (General Practice) - Dr Emma Digman (Clinical Practitioner Access Role)
+- Coded entry - eConsultation via online application (Y1f3b)
+## 10 November 2023
+Langley Corner Surgery (General Practice) - Dr Ketan Kansagra (Clinical Practitioner Access Role)
+- Coded entry - Telephone consultation (XaIge)
+## 31 October 2023
+Langley Corner Surgery (General Practice) - Ms Natalie Greenall (Pharmacist)
+- Coded entry - Patient telephone number (9159.)
+- Coded entry - Short message service text message sent to patient (XaMiI)
+## 31 October 2023
+Langley Corner Surgery (General Practice) - Tina Miles (Systems Support Access Role)
+- Medication - (R) Atorvastatin 40mg tablets - 28 tablet - take one daily
+- Medication - (R) Clopidogrel 75mg tablets - 28 tablet - take one once daily and as per discharge 10.04.23
+- Medication - (R) Gabapentin 300mg capsules - 84 capsule - take one 3 times a day
+- Medication - (R) Lansoprazole 15mg gastro-resistant capsules (A A H Pharmaceuticals Ltd) - 56 capsule - take one a day
+- Medication - (R) Metformin 500mg tablets - 84 tablet - take one 3 times/day
+## 18 October 2023
+Langley Corner Surgery (General Practice) - Ms Natalie Greenall (Pharmacist)
+- Medication template - Quetiapine 25mg tablets - 30 tablet - take HALF a tablet (12.5mg) at NIGHT; Ended 19 Dec 2023 Change to medication treatment regime by Dr Waheba Khan
+- Medication - (R) Quetiapine 25mg tablets - 30 tablet - take HALF a tablet (12.5mg) at NIGHT
+## 11 October 2023
+Langley Corner Surgery (General Practice) - Simone Johnston
+- Coded entry - Enhanced review indicated before granting access to own health record (Y2ffe)
+## 8 October 2023
+Langley Corner Surgery (General Practice) - Lara Nulty (Receptionist Access Role)
+- Coded entry - Minor: Colonoscopy (XM0By) (New Episode)
+## 2 October 2023
+Langley Corner Surgery (General Practice) - Tina Miles (Systems Support Access Role)
+- Medication - (R) Aspirin 75mg tablets - 28 tablet - one each morning until 10/4/23 as per discharge
+- Medication - (R) Atorvastatin 40mg tablets - 28 tablet - take one daily
+- Medication - (R) Clopidogrel 75mg tablets - 28 tablet - take one once daily and as per discharge 10.04.23
+- Medication - (R) Metformin 500mg tablets - 84 tablet - take one 3 times/day
+- Medication - (R) Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd) - 60 dose - inhale 1 dose twice daily
+## 30 September 2023
+Langley Corner Surgery (General Practice) - Dr Bilal Ali (Clinical Practitioner Access Role)
+- Vaccination - Adjuvanted quadrivalent flu vacc (SA, inact) inj 0.5ml pfs (Seqirus UK Ltd) 1 0.5ml
+- Vaccination consent - Vaccination Consent: INFLUENZA
+- Coded entry - Consent given for seasonal influenza vaccination (XaZ0l)
+## 27 September 2023
+Langley Corner Surgery (General Practice) - Dr Ketan Kansagra (Clinical Practitioner Access Role)
+- Coded entry - Short message service text message sent to patient (XaMiI)
+- Coded entry - Patient telephone number (9159.)
+## 27 September 2023
+Langley Corner Surgery (General Practice) - Dr Ketan Kansagra (Clinical Practitioner Access Role)
+- Medication - (R) Quetiapine 200mg tablets - 60 tablet - take 1/2 a tablet To be taken Each Night as directed
+## 27 September 2023
+Langley Corner Surgery (General Practice) - Dr Ketan Kansagra (Clinical Practitioner Access Role)
+- Medication template - Quetiapine 200mg tablets - 60 tablet - take 1/2 a tablet To be taken Each Night as directed; Ended 18 Oct 2023 Change to medication treatment regime by Ms Natalie Greenall
+## 27 September 2023
+Langley Corner Surgery (General Practice) - Simone Johnston
+- Coded entry - SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) vaccination invitation first short message service text message (Y3bd1)
+## 21 September 2023
+Langley Corner Surgery (General Practice) - Dr Ketan Kansagra (Clinical Practitioner Access Role)
+- Coded entry - Minor: Cerebral atrophy (Xa0s2) (New Episode)
+## 21 September 2023
+Langley Corner Surgery (General Practice) - Simone Johnston (Systems Support Access Role)
+- Coded entry - Major: Mixed dementia (Y23fb) (New Episode)
+## 18 September 2023
+Langley Corner Surgery (General Practice) - Karolina Myszka (Receptionist Access Role)
+- Coded entry - O/E - right eye no maculopathy (XaKCJ)
+- Coded entry - O/E - no right diabetic retinopathy (XaIPg)
+- Coded entry - No diabetic retinopathy (XaLJN)

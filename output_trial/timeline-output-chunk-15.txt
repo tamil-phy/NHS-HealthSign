@@ -1,0 +1,94 @@
+- Medication - (R) Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd) - 60 dose - inhale 1 dose twice daily
+- Coded entry - Additional SCR dataset uploaded under COPI Regulations (Y237d)
+## 10 March 2022
+Langley Corner Surgery (General Practice) - Sarah Taylor (Systems Support Access Role)
+- Referral out - Hospital Referral to podiatry service
+- Coded entry - Referral to podiatry service (XaAdU)
+- Coded entry - Additional SCR dataset uploaded under COPI Regulations (Y237d)
+## 19 February 2022
+Langley Corner Surgery (General Practice) - Dr Jill Avery (Clinical Practitioner Access Role)
+- Coded entry - Additional SCR dataset uploaded under COPI Regulations (Y237d)
+## 10 February 2022
+Langley Corner Surgery (General Practice) - Simone Johnston
+- Coded entry - Severe acute respiratory syndrome coronavirus 2 vaccination invitation short message service text message sent (situation) (Y211f)
+## 9 February 2022
+Langley Corner Surgery (General Practice) - Simone Johnston
+- Coded entry - Influenza vaccination invitation 3rd SMS text message sent (XaXjq)
+## 11 January 2022
+Langley Corner Surgery (General Practice) - Kim Defrates (Receptionist Access Role)
+- Medication - (R) Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd) - 60 dose - inhale 1 dose twice daily
+- Coded entry - Additional SCR dataset uploaded under COPI Regulations (Y237d)
+## 10 January 2022
+Langley Corner Surgery (General Practice) - Dr Bilal Ali (Clinical Practitioner Access Role)
+- Coded entry - Did not attend retinal screening (XaLLL)
+- Coded entry - Short message service text message sent to patient (XaMiI)
+- Coded entry - Patient telephone number (9159.)
+## 5 January 2022
+Langley Corner Surgery (General Practice) - Dr Bilal Ali (Clinical Practitioner Access Role)
+- Coded entry - Diabetic retinopathy screening offered (XaKaW) (New Episode)
+## 9 December 2021
+Langley Corner Surgery (General Practice) - Dr Ketan Kansagra (Clinical Practitioner Access Role)
+- Medication template - Atorvastatin 20mg tablets - 56 tablet - take one daily; Ended 15 Mar 2023 Re-Authorised by Charlotte Prowse
+- Medication - (R) Atorvastatin 20mg tablets - 56 tablet - take one daily
+- Medication - (R) Metformin 500mg tablets - 168 tablet - take one 3 times/day
+- Coded entry - Medication review done (XaF8d)
+- Coded entry - Additional SCR dataset uploaded under COPI Regulations (Y237d)
+- Coded entry - Telephone consultation (XaIge)
+## 19 November 2021
+Langley Corner Surgery (General Practice) - Karolina Myszka (Receptionist Access Role)
+- Coded entry - Additional SCR dataset uploaded under COPI Regulations (Y237d)
+- Coded entry - Main spoken language Tamil (XaG69)
+## 14 November 2021
+Langley Corner Surgery (General Practice) - Dr Jill Avery (Clinical Practitioner Access Role)
+- Medication - Lansoprazole 15mg gastro-resistant capsules - 56 capsule take one once daily
+- Coded entry - Additional SCR dataset uploaded under COPI Regulations (Y237d)
+## 11 November 2021
+Langley Corner Surgery (General Practice) - Simone Johnston (Systems Support Access Role)
+- Coded entry - Consent given to share patient data with specified 3rd party (XaNwR)
+## 11 November 2021
+Langley Corner Surgery (General Practice) - Simone Johnston (Systems Support Access Role)
+- Coded entry - Consent given to share patient data with specified 3rd party (XaNwR)
+## 10 November 2021
+Langley Corner Surgery (General Practice) - Tracie Newark (Systems Support Access Role)
+- Coded entry - Additional SCR dataset uploaded under COPI Regulations (Y237d)
+## 9 November 2021
+Langley Corner Surgery (General Practice) - Unknown Staff Member
+- Vaccination - COVID-19 mRNA Vaccine Comirnaty 30micrograms/0.3ml dose conc for susp for inj MDV (Pfizer) Booster 0.3ml
+- Coded entry - Immunisation course to maintain protection against SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) (Y2e65)
+## 8 November 2021
+Langley Corner Surgery (General Practice) - Amelia Bown (Systems Support Access Role)
+- Medication - (R) Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd) - 60 dose - inhale 1 dose twice daily
+- Coded entry - Additional SCR dataset uploaded under COPI Regulations (Y237d)
+## 1 November 2021
+Langley Corner Surgery (General Practice) - Simone Johnston
+- Coded entry - Influenza vaccination invitation 2nd SMS text message sent (XaXjp)
+## 24 September 2021
+Langley Corner Surgery (General Practice) - Sharon Atkinson (Nurse Access Role)
+- Coded entry - Short message service text message sent to patient (XaMiI)
+- Coded entry - Patient telephone number (9159.)
+- Coded entry - Chronic disease monitoring (66...)
+## 24 September 2021
+Langley Corner Surgery (General Practice) - Sharon Atkinson (Nurse Access Role)
+- Coded entry - Asthma self-management plan review (XaYZB)
+- Coded entry - Additional SCR dataset uploaded under COPI Regulations (Y237d)
+## 24 September 2021
+Langley Corner Surgery (General Practice) - Dr Emma Murphy (Clinical Practitioner Access Role)
+- Coded entry - Short message service text message sent to patient (XaMiI)
+- Coded entry - Patient telephone number (9159.)
+## 24 September 2021
+Langley Corner Surgery (General Practice) - Dr Emma Murphy (Clinical Practitioner Access Role)
+- Medication - Lansoprazole 15mg gastro-resistant capsules - 28 capsule take one once daily
+- Coded entry - Additional SCR dataset uploaded under COPI Regulations (Y237d)
+## 23 September 2021
+Langley Corner Surgery (General Practice) - Karolina Myszka (Receptionist Access Role)
+- Coded entry - Additional SCR dataset uploaded under COPI Regulations (Y237d)
+## 23 September 2021
+Langley Corner Surgery (General Practice) - Sharon Atkinson (Nurse Access Role)
+- Medication template - Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd) - 60 dose - inhale 1 dose twice daily; Ended 17 Oct 2022 Re-Authorised by Dr Emma Murphy
+- Medication - Fenbid 5% gel (Advanz Pharma) - 100 gram - apply 3 times/day to help with pain
+- Medication - (R) Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd) - 60 dose - inhale 1 dose twice daily
+- Medication - Ventolin 200micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd) - 60 dose - Inhale 1 dose as needed
+- Coded entry - Asthma causes symptoms most nights (XaXZp)
+- Coded entry - Asthma never causes daytime symptoms (XaINa)
+- Coded entry - Never smoked tobacco (XE0oh)
+- Coded entry - Using inhaled steroids - low dose (XaZHv)

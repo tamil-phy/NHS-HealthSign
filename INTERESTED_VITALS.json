@@ -1,0 +1,191 @@
+{
+  "General": {
+    "group": "Anthropometric Measurements",
+    "tests": {
+      "Height": {
+        "aliases": ["height"],
+        "units": ["cm", "m"]
+      },
+      "Weight": {
+        "aliases": ["weight", "body weight"],
+        "units": ["kg", "lb", "stone"]
+      },
+      "BMI": {
+        "aliases": ["bmi", "body mass index"],
+        "units": ["kg/m²"]
+      }
+    }
+  },
+  "Cardiovascular": {
+    "group": "Blood Pressure & Heart Rate",
+    "tests": {
+      "Blood Pressure": {
+        "aliases": ["blood pressure"],
+        "units": ["mmHg"]
+      },
+      "Systolic Blood Pressure": {
+        "aliases": ["systolic", "sbp", "systolic bp", "blood pressure (systolic)"],
+        "units": ["mmHg"]
+      },
+      "Diastolic Blood Pressure": {
+        "aliases": ["diastolic", "dbp", "diastolic bp", "blood pressure (diastolic)"],
+        "units": ["mmHg"]
+      },
+      "Heart Rate": {
+        "aliases": ["heart rate", "pulse", "hr", "bpm"],
+        "units": ["bpm"]
+      }
+    }
+  },
+  "Metabolic": {
+    "group": "Cholesterol & Lipids",
+    "tests": {
+      "Total Cholesterol": {
+        "aliases": ["cholesterol", "total cholesterol"],
+        "units": ["mmol/L"]
+      },
+      "HDL Cholesterol": {
+        "aliases": ["hdl", "hdl cholesterol", "high density lipoprotein"],
+        "units": ["mmol/L"]
+      },
+      "LDL Cholesterol": {
+        "aliases": ["ldl", "ldl cholesterol", "low density lipoprotein"],
+        "units": ["mmol/L"]
+      },
+      "Triglycerides": {
+        "aliases": ["triglycerides", "triglyceride level"],
+        "units": ["mmol/L"]
+      },
+      "HbA1c": {
+        "aliases": ["hba1c", "hemoglobin a1c", "glycated haemoglobin", "glycosylated hemoglobin"],
+        "units": ["mmol/mol", "%"]
+      },
+      "Fasting Glucose": {
+        "aliases": ["fasting glucose", "fasting blood sugar", "fbg"],
+        "units": ["mmol/L"]
+      }
+    }
+  },
+  "Renal": {
+    "group": "Kidney Function",
+    "tests": {
+      "Creatinine": {
+        "aliases": ["creatinine", "serum creatinine"],
+        "units": ["µmol/L", "mg/dL"]
+      },
+      "eGFR": {
+        "aliases": ["egfr", "estimated gfr", "glomerular filtration rate"],
+        "units": ["mL/min/1.73m²"]
+      },
+      "Urea": {
+        "aliases": ["urea", "blood urea", "bun"],
+        "units": ["mmol/L"]
+      },
+      "Urinary Albumin": {
+        "aliases": ["urinary albumin", "albumin creatinine ratio", "acr"],
+        "units": ["mg/mmol"]
+      }
+    }
+  },
+  "Liver": {
+    "group": "Liver Function Tests",
+    "tests": {
+      "ALT": {
+        "aliases": ["alt", "alanine transaminase"],
+        "units": ["U/L"]
+      },
+      "AST": {
+        "aliases": ["ast", "aspartate transaminase"],
+        "units": ["U/L"]
+      },
+      "ALP": {
+        "aliases": ["alp", "alkaline phosphatase"],
+        "units": ["U/L"]
+      },
+      "GGT": {
+        "aliases": ["ggt", "gamma-glutamyl transferase"],
+        "units": ["U/L"]
+      },
+      "Bilirubin": {
+        "aliases": ["bilirubin", "total bilirubin"],
+        "units": ["µmol/L"]
+      },
+      "Albumin": {
+        "aliases": ["albumin", "serum albumin"],
+        "units": ["g/L"]
+      }
+    }
+  },
+  "Hematology": {
+    "group": "Blood Count",
+    "tests": {
+      "Haemoglobin": {
+        "aliases": ["haemoglobin", "hemoglobin", "hb"],
+        "units": ["g/dL", "g/L"]
+      },
+      "WBC": {
+        "aliases": ["wbc", "white blood cell count"],
+        "units": ["10^9/L"]
+      },
+      "Platelets": {
+        "aliases": ["platelets", "plt", "platelet count"],
+        "units": ["10^9/L"]
+      },
+      "RBC": {
+        "aliases": ["rbc", "red blood cell count"],
+        "units": ["10^12/L"]
+      }
+    }
+  },
+  "Inflammatory": {
+    "group": "Inflammatory Markers",
+    "tests": {
+      "CRP": {
+        "aliases": ["crp", "c-reactive protein"],
+        "units": ["mg/L"]
+      },
+      "ESR": {
+        "aliases": ["esr", "erythrocyte sedimentation rate"],
+        "units": ["mm/hr"]
+      }
+    }
+  },
+  "Endocrine": {
+    "group": "Thyroid & Hormones",
+    "tests": {
+      "TSH": {
+        "aliases": ["tsh", "thyroid stimulating hormone"],
+        "units": ["mIU/L"]
+      },
+      "Free T4": {
+        "aliases": ["free t4", "thyroxine", "t4"],
+        "units": ["pmol/L"]
+      },
+      "Free T3": {
+        "aliases": ["free t3", "triiodothyronine", "t3"],
+        "units": ["pmol/L"]
+      }
+    }
+  },
+  "Respiratory": {
+    "group": "Oxygen & Lung Function",
+    "tests": {
+      "Oxygen Saturation": {
+        "aliases": ["spo2", "oxygen saturation"],
+        "units": ["%"]
+      },
+      "Respiratory Rate": {
+        "aliases": ["respiratory rate", "rr", "breathing rate"],
+        "units": ["breaths/min"]
+      },
+      "PEFR": {
+        "aliases": ["pefr", "peak expiratory flow rate"],
+        "units": ["L/min"]
+      },
+      "FEV1": {
+        "aliases": ["fev1", "forced expiratory volume"],
+        "units": ["L"]
+      }
+    }
+  }
+}

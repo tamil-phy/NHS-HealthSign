@@ -1,0 +1,130 @@
+{
+  "Cancer or Oncogenic": {
+    "description": "Comprehensive cancer-related Read codes for underwriting.",
+    "code_groups": [
+      {
+        "group": "Fast Track Referrals (Suspected Cancer)",
+        "codes": {
+          "Xaalp": "Fast track referral for suspected lower GI cancer",
+          "Xaala": "Fast track referral for suspected upper GI cancer",
+          "XaapN": "Fast track referral for suspected breast cancer",
+          "XaapJ": "Fast track referral for suspected lung cancer",
+          "XaapL": "Fast track referral for suspected urological cancer"
+        }
+      },
+      {
+        "group": "Confirmed Malignancies (GI, Lung, Breast, Prostate, etc.)",
+        "codes": {
+          "B33..": "Malignant neoplasm of colon",
+          "B34..": "Malignant neoplasm of rectum",
+          "B22..": "Malignant neoplasm of bronchus/lung",
+          "B32..": "Malignant neoplasm of stomach",
+          "B46..": "Malignant neoplasm of prostate",
+          "B44..": "Malignant neoplasm of breast",
+          "B100.00": "Malignant neoplasm of cervical oesophagus",
+          "B112.00": "Malignant neoplasm of body of stomach",
+          "B22z.": "Malignant neoplasm of lung NOS"
+        }
+      },
+      {
+        "group": "Cancer Treatments / Monitoring",
+        "codes": {
+          "7A0A.": "Chemotherapy for neoplasm",
+          "7A093": "Radiotherapy",
+          "8B31.": "Oncology clinic attendance",
+          "8H44.": "Referral to oncology",
+          "66AF.": "Cancer care review"
+        }
+      }
+    ]
+  },
+  "Cardiac related issues": {
+    "description": "Comprehensive cardiac-related Read codes for underwriting.",
+    "code_groups": [
+      {
+        "group": "Fast Track Referrals (Suspected Cardiac Disease)",
+        "codes": {
+          "XaQVY": "Fast track referral for suspected cardiac chest pain"
+        }
+      },
+      {
+        "group": "Confirmed Cardiac Diagnoses",
+        "codes": {
+          "G30..": "Acute myocardial infarction",
+          "G35..": "Heart failure",
+          "G58..": "Atrial fibrillation and flutter"
+        }
+      },
+      {
+        "group": "Cardiac Interventions / Monitoring",
+        "codes": {
+          "7A0G.": "Cardiac surgery",
+          "663M.": "On beta-blockers",
+          "8H35.": "Referral to cardiology",
+          "8C3O.": "Cardiac pacemaker in situ"
+        }
+      }
+    ]
+  },
+  "Neurological diseases": {
+    "description": "High-risk neurological Read codes.",
+    "code_groups": [
+      {
+        "group": "Serious Neurological Diagnoses",
+        "codes": {
+          "F25..": "Parkinson's disease",
+          "F03..": "Multiple sclerosis",
+          "Eu01.": "Stroke NOS",
+          "F110.": "Alzheimer's disease"
+        }
+      },
+      {
+        "group": "Specialist Interventions",
+        "codes": {
+          "8H2R.": "Referral to neurology"
+        }
+      }
+    ]
+  },
+  "Respiratory diseases": {
+    "description": "High-risk respiratory Read codes for underwriting.",
+    "code_groups": [
+      {
+        "group": "Fast Track Referrals (Suspected Respiratory Cancer)",
+        "codes": {
+          "XaapJ": "Fast track referral for suspected lung cancer",
+          "XaapI": "Fast track referral for suspected chest symptoms",
+          "XaVpl": "Referral for suspected respiratory tract cancer"
+        }
+      },
+      {
+        "group": "Confirmed Respiratory Malignancies",
+        "codes": {
+          "B22..": "Malignant neoplasm of bronchus/lung",
+          "B220.": "Malignant neoplasm of trachea",
+          "B22z.": "Malignant neoplasm of lung NOS"
+        }
+      },
+      {
+        "group": "Chronic Respiratory Diseases",
+        "codes": {
+          "H32..": "Emphysema",
+          "H47..": "Pulmonary fibrosis",
+          "H27..": "Cystic fibrosis",
+          "H27z.": "Cystic fibrosis NOS"
+        }
+      },
+      {
+        "group": "Treatment and Monitoring",
+        "codes": {
+          "7A0A.": "Chemotherapy for respiratory cancer",
+          "7A093": "Radiotherapy",
+          "8H2P.": "Referral to respiratory medicine clinic",
+          "8H2P0": "Referral to lung cancer clinic",
+          "663t.": "On home oxygen therapy",
+          "663U.": "Nebuliser at home"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "date": "4 September 2023",
+    "line": " - Referral out - Hospital Fast track referral for suspected lower GI cancer",
+    "matched_category": "Cancer or Oncogenic",
+    "matched_group": "Fast Track Referrals (Suspected Cancer)",
+    "matched_code": "Xaalp",
+    "code_description": "Fast track referral for suspected lower GI cancer"
+  },
+  {
+    "date": "4 September 2023",
+    "line": " - Coded entry - Fast track referral for suspected lower GI cancer (Xaalp)",
+    "matched_category": "Cancer or Oncogenic",
+    "matched_group": "Fast Track Referrals (Suspected Cancer)",
+    "matched_code": "Xaalp",
+    "code_description": "Fast track referral for suspected lower GI cancer"
+  },
+  {
+    "date": "21 August 2023",
+    "line": " - Referral out - Hospital Fast track referral for suspected lower GI cancer",
+    "matched_category": "Cancer or Oncogenic",
+    "matched_group": "Fast Track Referrals (Suspected Cancer)",
+    "matched_code": "Xaalp",
+    "code_description": "Fast track referral for suspected lower GI cancer"
+  },
+  {
+    "date": "21 August 2023",
+    "line": " - Coded entry - Fast track referral for suspected lower GI cancer (Xaalp)",
+    "matched_category": "Cancer or Oncogenic",
+    "matched_group": "Fast Track Referrals (Suspected Cancer)",
+    "matched_code": "Xaalp",
+    "code_description": "Fast track referral for suspected lower GI cancer"
+  },
+  {
+    "date": "24 August 2021",
+    "line": " - Coded entry - QRISK2 cardiovascular disease 10 year risk score (XaQVY) 44.66 %",
+    "matched_category": "Cardiac related issues",
+    "matched_group": "Fast Track Referrals (Suspected Cardiac Disease)",
+    "matched_code": "XaQVY",
+    "code_description": "Fast track referral for suspected cardiac chest pain"
+  }
+]

@@ -1,0 +1,117 @@
+<!-- image -->
+Back (Link: #)
+## Your GP health record Mrs Jeyalakshmi Subramani
+## Date of birth:
+17 February 1940
+NHS number:
+725 166 5387
+Address:
+Dene House, Rusper Road, Ifield, Crawley, W Sussex, RH11 0LN
+## Allergies and adverse reactions
+(Link: health-records/gp-medical-record/allergies-and-reactions)
+## Medicines
+(Link: health-records/gp-medical-record/medicines)
+## Test results
+(Link: health-records/gp-medical-record/test-results-v2)
+## Consultations and events
+(Link: health-records/gp-medical-record/events)
+## Documents
+(Link: health-records/gp-medical-record/documents)
+You may see medical abbreviations that you are not familiar with.
+1
+11
+238
+0
+<!-- image -->
+Help with abbreviations (Link: https://www.nhs.uk/using-thenhs/nhs-services/the-nhs-app/abbreviations/)
+<!-- image -->
+Back (Link: #)
+## Consultations and events
+## 25 November 2025
+Langley Corner Surgery (General Practice) - Joanna Chalk (Health Professional Access Role)
+- Coded entry - Past expiry date (YA682)
+## 25 November 2025
+Langley Corner Surgery (General Practice) - Joanna Chalk (Health
+Professional Access Role)
+- Coded entry - Past expiry date (YA682)
+## 22 November 2025
+Langley Corner Surgery (General Practice) - Jacqueline Kensett (Health Professional Access Role)
+- Coded entry - Past expiry date (YA682)
+## 22 November 2025
+Langley Corner Surgery (General Practice) - Jacqueline Kensett (Health Professional Access Role)
+- Coded entry - Past expiry date (YA682)
+## 22 November 2025
+Langley Corner Surgery (General Practice) - Danielle McComb (Health Professional Access Role)
+- Coded entry - Past expiry date (YA682)
+## 10 February 2025
+Langley Corner Surgery (General Practice) - Dr Jude Gunasegaram (Clinical Practitioner Access Role)
+- Medication - (R) Gabapentin 300mg capsules - 300 capsule - Take 2 three times a day
+## 7 February 2025
+Langley Corner Surgery (General Practice) - Sharon Atkinson (Nurse Access Role)
+- Coded entry - Short message service text message sent to patient (XaMiI)
+- Coded entry - Patient telephone number (9159.)
+## 7 February 2025
+Langley Corner Surgery (General Practice) - Sharon Atkinson (Nurse Access Role)
+- Vaccination - Adjuvanted quadrivalent flu vacc (SA, inact) inj 0.5ml pfs (Seqirus UK Ltd) 1 0.5ml
+- Vaccination consent - Vaccination Consent: INFLUENZA
+- Test request - Pathology Request (Request Sent):; Haemoglobin A1c, Blood (Requested)
+- Medication template - Atorvastatin 40mg tablets - 56 tablet - take one daily
+- Medication template - Clopidogrel 75mg tablets - 56 tablet - take one once daily and as per discharge 10.04.23
+- Medication template - Gabapentin 300mg capsules - 300 capsule - Take 2 three times a day
+- Medication template - Gabapentin 300mg capsules - 300 capsule - Take 2 three times a day; Ended 07 Feb 2025 Re-Authorised by Sharon Atkinson
+- Medication template - Lansoprazole 15mg gastro-resistant capsules (A A H Pharmaceuticals Ltd) - 56 capsule - take one a day
+- Medication template - Metformin 500mg modified-release tablets - 56 tablet - Take one daily after food
+- Medication template - Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd) - 60 dose - inhale 1 dose twice daily
+- Coded entry - Asthma never causes daytime symptoms (XaINa)
+- Coded entry - Relative present (Y1607)
+- Coded entry - Medication review done (XaF8d)
+- Coded entry - Consent given for seasonal influenza vaccination (XaZ0l)
+- Coded entry - Never smoked tobacco (XE0oh)
+- Coded entry - Asthma annual review (XaIeq)
+- Coded entry - Good compliance with inhaler (XaIPs)
+- Coded entry - Inhaler technique - good (663H.)
+- Coded entry - Asthma self-management plan review (XaYZB)
+- Coded entry - Asthma never causes night symptoms (XaY2V)
+- Coded entry - Asthma not limiting activities (663Q.)
+- Coded entry - Asthma medication review (XaIfK)
+- Coded entry - Chronic disease - good control (661A.)
+- Coded entry - Asthma control test (XaQHq) 24 - ; Did your asthma prevent you from getting as much done at work/school/home?: None of the time; Have you had shortness of breath?: None at all; Did your
+asthma symptoms wake you up at night or early in the morning?: Not at all; Have you used your reliever inhaler (usually blue)?: Not at all; How would you rate your asthma control?: Well controlled
+- Coded entry - Asthma Control (Y0024)
+- Coded entry - Routine (X78uI)
+- Coded entry - Structured medication review (Y282b)
+- Coded entry - Chronic disease management annual review completed (Xaagy)
+- Coded entry - No known allergies (1151.)
+- Coded entry - Number of asthma exacerbations in past year (XaINh) 0
+- Coded entry - Number of Asthma exacerbations in the past year requiring steroids (Y2cec) 0
+- Coded entry - Number of hospital admissions for asthma in past 12 months (Y2ced) 0
+- Coded entry - Asthma control test (XaQHq) 24
+- Coded entry - Bronchodilator used infrequently (XaZ4m)
+- Coded entry - Using inhaled steroids - normal dose (663g1)
+- Coded entry - Diabetic - good control (66AI.)
+- Coded entry - Patient on maximal tolerated therapy for diabetes (XaJ5j)
+- Coded entry - Diabetic neuropathy (X00Ag)
+- Coded entry - Diabetic retinopathy screening (XaIIj)
+- Coded entry - Structured medication review (Y282b)
+- Coded entry - Clinical history and observations (X76sV)
+- Coded entry - Specific advice for diabetics (Y1123)
+- Coded entry - Patient on maximal tolerated lipid lowering therapy (XaJ5i)
+- Coded entry - Diabetes care plan agreed (XaKSn)
+- Coded entry - Diabetes: practice programme (66AP.)
+- Coded entry - Diabetes care plan agreed (XaKSn)
+- Coded entry - Clinical history and observations (X76sV)
+- Coded entry - Plan (XaIVg)
+- Coded entry - Diabetic annual review (66AS.)
+- Coded entry - HbA1c target level - IFCC standardised (XaWP9) 40 mmol/mol
+- Coded entry - No significant hypoglycaemic attacks (Y1028)
+- Coded entry - Enhanced services administration (XaK9S)
+- Coded entry - Diabetic annual review (66AS.)
+## 3 February 2025
+Langley Corner Surgery (General Practice) - Frances Hole
+- Coded entry - Cohort screening (9O12.)
+## 3 February 2025
+Langley Corner Surgery (General Practice) - Frances Hole
+- Coded entry - Cohort screening (9O12.)
+## 31 January 2025
+Langley Corner Surgery (General Practice) - Dr Muhammad Asif Nazir (Clinical Practitioner Access Role)
+- Coded entry - Follow-up consultation (Xa1cI)

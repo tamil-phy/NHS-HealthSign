@@ -1,0 +1,94 @@
+- Medication - (R) Lansoprazole 15mg gastro-resistant capsules (A A H Pharmaceuticals Ltd) - 56 capsule - Two to be taken Daily as per letter 10.4.23
+- Medication - (R) Metformin 500mg tablets - 168 tablet - take one 3 times/day
+- Medication - (R) Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd) - 60 dose - inhale 1 dose twice daily
+## 26 April 2023
+Langley Corner Surgery (General Practice) - Helen Youlten (Receptionist Access Role)
+- Coded entry - Short message service text message sent to patient (XaMiI)
+- Coded entry - Patient telephone number (9159.)
+## 24 April 2023
+Langley Corner Surgery (General Practice) - Sharon Atkinson (Nurse Access Role)
+- Referral out - Hospital Referral to podiatry service
+- Coded entry - Referral to podiatry service (XaAdU)
+## 20 April 2023
+Langley Corner Surgery (General Practice) - Sharon Atkinson (Nurse Access Role)
+- Test request - Pathology Request (Complete):; Faeces PCR (Requested)
+- Test request - Pathology Request (Complete):; Albumin:Creatinine Ratio, Urine (Requested)
+- Test request - Pathology Request (Complete):; Haemoglobin A1c, Blood (Requested), Vitamin B12/Folate Levels, Blood (Requested), Creatinine &amp; Electrolytes Profile, Blood (Requested), Full Blood Count, Blood (Requested), Liver Function Profile, Blood (Requested), Lipid: NonFasting Profile, Blood (Requested), Thyroid Stimulating Hormone Level, Blood (Requested), Urea Level, Blood (Requested)
+- Coded entry - 10g monofilament sensation L foot abnormal (XaIeE)
+- Coded entry - O/E foot callus present (XaeW1)
+- Coded entry - O/E - L.dorsalis pedis absent (24F9.)
+- Coded entry - O/E - Right diabetic foot at high risk (XaIeI)
+- Coded entry - O/E - L.post.tib.pulse present (24F6.)
+- Coded entry - Diabetic foot care education (XabZd)
+- Coded entry - Education about diabetic neuropathy (XaZcP)
+- Coded entry - O/E - Left diabetic foot at moderate risk (XaIeR)
+- Coded entry - O/E - No left foot deformity (XaK21)
+- Coded entry - O/E - No left foot ulcer (XaK23)
+- Coded entry - Diabetic foot examination (XaIuE)
+- Coded entry - O/E - R.post.tib.pulse present (24E6.)
+- Coded entry - Chronic disease monitoring (66...)
+- Coded entry - Informed consent given (XaLQR)
+- Coded entry - Unsuccessful phlebotomy (XacFJ)
+- Coded entry - O/E - Right foot deformity (XaBLd)
+- Coded entry - O/E - Right diabetic foot - ulcerated (XaIeJ)
+- Coded entry - O/E foot callus present (XaeW1)
+- Coded entry - O/E - R.dorsalis pedis absent (24E9.)
+- Coded entry - 10g monofilament sensation R foot abnormal (XaIeD)
+- Coded entry - Follow up (XaIjm)
+- Coded entry - Lifetime non-drinker (Ub0lH)
+- Coded entry - Relative is informal carer (XaLSo)
+- Coded entry - Never smoked tobacco (XE0oh)
+- Coded entry - O/E - height (229..) 1.49 m ( ≈ 4 ' 11 ")
+- Coded entry - Body mass index - observation (22K..) 18.02 Kg/m²
+- Coded entry - Patient advised to bring sample to surgery (XaLIB)
+- Coded entry - Patient given advice (8CA..)
+- Coded entry - Plan (XaIVg)
+- Coded entry - Clinical examination (XB001)
+- Coded entry - Referral to hospital phlebotomist (XaKvT)
+- Coded entry - Consultation (Xa1qL)
+- Coded entry - O/E - Right diabetic foot at high risk (XaIeI)
+- Coded entry - O/E - Systolic BP reading (2469.) 110 mmHg
+- Coded entry - O/E - Left diabetic foot at moderate risk (XaIeR)
+- Coded entry - Referral to podiatry service (XaAdU)
+- Coded entry - Refer to footcare protection programme (XaJSq)
+- Coded entry - O/E - Diastolic BP reading (246A.) 58 mmHg
+- Coded entry - O/E - weight (22A..) 40 Kg ( ≈ 6 st 4 lb)
+- Coded entry - Gets no exercise (Ub0o5)
+- Coded entry - Diet average (XaCJ0)
+- Coded entry - Pulse rate (X773s) 95 bpm
+- Coded entry - Pulse regular (XM02J)
+- Blood pressure - 110 / 58 mmHg
+## 10 April 2023
+Langley Corner Surgery (General Practice) - Lara Nulty (Receptionist Access Role)
+- Coded entry - Minor: Lower limb ischaemia (X203T) (New Episode)
+## 1 April 2023
+Langley Corner Surgery (General Practice) - Dr Ketan Kansagra (Clinical Practitioner Access Role)
+- Coded entry - Minor: Critical lower limb ischaemia (X203U)
+## 30 March 2023
+Langley Corner Surgery (General Practice) - Danielle McComb
+- Coded entry - Did not attend (Xa1kG)
+## 29 March 2023
+Langley Corner Surgery (General Practice) - Dr Ketan Kansagra (Clinical Practitioner Access Role)
+- Coded entry - Major: Angioplasty of superficial femoral artery (X013q)
+## 23 March 2023
+Langley Corner Surgery (General Practice) - Dr Mahvesh Javaid (Clinical Practitioner Access Role)
+- Coded entry - O/E - Systolic BP reading (2469.) 155 mmHg
+- Coded entry - O/E - Diastolic BP reading (246A.) 75 mmHg
+- Coded entry - Temperature (X75Xk) 37.4 C
+- Coded entry - Oxygen saturation at periphery (X770D) 98 %
+- Coded entry - Pulse rate (X773s) 108 bpm
+- Coded entry - Clinical examination (XB001)
+- Coded entry - Plan (XaIVg)
+- Coded entry - Consultation (Xa1qL)
+- Coded entry - Clinical history and observations (X76sV)
+- Blood pressure - 155 / 75 mmHg
+## 23 March 2023
+Langley Corner Surgery (General Practice) - Dr Mahvesh Javaid (Clinical Practitioner Access Role)
+- Coded entry - eConsultation via online application (Y1f3b)
+## 15 March 2023
+Langley Corner Surgery (General Practice) - Charlotte Prowse (Pharmacist)
+- Medication - Aspirin 75mg tablets - 14 tablet - one each morning until 3/4/23 as per discharge
+- Medication - Clopidogrel 75mg tablets - 14 tablet - take one once daily and as per discharge for apt/review by gp if to continue
+- Medication - Morphine sulfate 10mg/5ml oral solution - 140 ml - 1.25ml to 2,5ml up to four times a day as per discharge march 23 short term for pain, max 10ml in 24hour 140
+## 15 March 2023
+Langley Corner Surgery (General Practice) - Charlotte Prowse (Pharmacist)

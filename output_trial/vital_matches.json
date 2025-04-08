@@ -1,0 +1,748 @@
+{
+  "vitals": [
+    {
+      "vital_name": "Height",
+      "measurements": [
+        {
+          "date": "6 January 2025",
+          "value": "1.49",
+          "unit": "m",
+          "context": "[6 January 2025]: - Coded entry - O/E - height (229..) 1.49 m ( ≈ 4 ' 11 \")"
+        },
+        {
+          "date": "19 November 2024",
+          "value": "1.49",
+          "unit": "m",
+          "context": "[19 November 2024]: - Coded entry - O/E - height (229..) 1.49 m ( ≈ 4 ' 11 \")"
+        },
+        {
+          "date": "19 November 2024",
+          "value": "1.49",
+          "unit": "m",
+          "context": "[19 November 2024]: - Coded entry - O/E - height (229..) 1.49 m ( ≈ 4 ' 11 \")"
+        },
+        {
+          "date": "7 March 2024",
+          "value": "1.49",
+          "unit": "m",
+          "context": "[7 March 2024]: - Coded entry - O/E - height (229..) 1.49 m ( ≈ 4 ' 11 \")"
+        },
+        {
+          "date": "11 August 2023",
+          "value": "1.49",
+          "unit": "m",
+          "context": "[11 August 2023]: - Coded entry - O/E - height (229..) 1.49 m ( ≈ 4 ' 11 \")"
+        },
+        {
+          "date": "20 April 2023",
+          "value": "1.49",
+          "unit": "m",
+          "context": "[20 April 2023]: - Coded entry - O/E - height (229..) 1.49 m ( ≈ 4 ' 11 \")"
+        }
+      ]
+    },
+    {
+      "vital_name": "Weight",
+      "measurements": [
+        {
+          "date": "6 January 2025",
+          "value": "31",
+          "unit": "kg",
+          "context": "[6 January 2025]: - Coded entry - O/E - weight (22A..) 31 Kg ( ≈ 4 st 12 lb)"
+        },
+        {
+          "date": "19 November 2024",
+          "value": "35",
+          "unit": "kg",
+          "context": "[19 November 2024]: - Coded entry - O/E - weight (22A..) 35 Kg ( ≈ 5 st 7 lb)"
+        },
+        {
+          "date": "19 November 2024",
+          "value": "35",
+          "unit": "kg",
+          "context": "[19 November 2024]: - Coded entry - O/E - weight (22A..) 35 Kg ( ≈ 5 st 7 lb)"
+        },
+        {
+          "date": "7 March 2024",
+          "value": "40",
+          "unit": "kg",
+          "context": "[7 March 2024]: - Coded entry - O/E - weight (22A..) 40 Kg ( ≈ 6 st 4 lb)"
+        },
+        {
+          "date": "11 August 2023",
+          "value": "41",
+          "unit": "kg",
+          "context": "[11 August 2023]: - Coded entry - O/E - weight (22A..) 41 Kg ( ≈ 6 st 6 lb)"
+        },
+        {
+          "date": "20 April 2023",
+          "value": "40",
+          "unit": "kg",
+          "context": "[20 April 2023]: - Coded entry - O/E - weight (22A..) 40 Kg ( ≈ 6 st 4 lb)"
+        }
+      ]
+    },
+    {
+      "vital_name": "BMI",
+      "measurements": [
+        {
+          "date": "6 January 2025",
+          "value": "13.96",
+          "unit": "kg/m²",
+          "context": "[6 January 2025]: - Coded entry - Body mass index - observation (22K..) 13.96 Kg/m²"
+        },
+        {
+          "date": "19 November 2024",
+          "value": "15.77",
+          "unit": "kg/m²",
+          "context": "[19 November 2024]: - Coded entry - Body mass index - observation (22K..) 15.77 Kg/m²"
+        },
+        {
+          "date": "19 November 2024",
+          "value": "15.77",
+          "unit": "kg/m²",
+          "context": "[19 November 2024]: - Coded entry - Body mass index - observation (22K..) 15.77 Kg/m²"
+        },
+        {
+          "date": "7 March 2024",
+          "value": "18.02",
+          "unit": "kg/m²",
+          "context": "[7 March 2024]: - Coded entry - Body mass index - observation (22K..) 18.02 Kg/m²"
+        },
+        {
+          "date": "11 August 2023",
+          "value": "18.47",
+          "unit": "kg/m²",
+          "context": "[11 August 2023]: - Coded entry - Body mass index - observation (22K..) 18.47 Kg/m²"
+        },
+        {
+          "date": "20 April 2023",
+          "value": "18.02",
+          "unit": "kg/m²",
+          "context": "[20 April 2023]: - Coded entry - Body mass index - observation (22K..) 18.02 Kg/m²"
+        }
+      ]
+    },
+    {
+      "vital_name": "Blood Pressure",
+      "measurements": [
+        {
+          "date": "UNPARSED",
+          "value": "130 / 60",
+          "unit": "mmHg",
+          "context": "- Blood pressure - 130 / 60 mmHg"
+        },
+        {
+          "date": "UNPARSED",
+          "value": "138 / 111",
+          "unit": "mmHg",
+          "context": "- Blood pressure - 138 / 111 mmHg"
+        },
+        {
+          "date": "UNPARSED",
+          "value": "149 / 76",
+          "unit": "mmHg",
+          "context": "- Blood pressure - 149 / 76 mmHg"
+        },
+        {
+          "date": "UNPARSED",
+          "value": "108 / 54",
+          "unit": "mmHg",
+          "context": "- Blood pressure - 108 / 54 mmHg"
+        },
+        {
+          "date": "UNPARSED",
+          "value": "110 / 58",
+          "unit": "mmHg",
+          "context": "- Blood pressure - 110 / 58 mmHg"
+        },
+        {
+          "date": "UNPARSED",
+          "value": "155 / 75",
+          "unit": "mmHg",
+          "context": "- Blood pressure - 155 / 75 mmHg"
+        }
+      ]
+    },
+    {
+      "vital_name": "Systolic Blood Pressure",
+      "measurements": [
+        {
+          "date": "6 January 2025",
+          "value": "130",
+          "unit": "mmHg",
+          "context": "[6 January 2025]: - Coded entry - O/E - Systolic BP reading (2469.) 130 mmHg"
+        },
+        {
+          "date": "19 November 2024",
+          "value": "138",
+          "unit": "mmHg",
+          "context": "[19 November 2024]: - Coded entry - O/E - Systolic BP reading (2469.) 138 mmHg"
+        },
+        {
+          "date": "15 November 2024",
+          "value": "149",
+          "unit": "mmHg",
+          "context": "[15 November 2024]: - Coded entry - O/E - Systolic BP reading (2469.) 149 mmHg"
+        },
+        {
+          "date": "7 March 2024",
+          "value": "108",
+          "unit": "mmHg",
+          "context": "[7 March 2024]: - Coded entry - O/E - Systolic BP reading (2469.) 108 mmHg"
+        },
+        {
+          "date": "20 April 2023",
+          "value": "110",
+          "unit": "mmHg",
+          "context": "[20 April 2023]: - Coded entry - O/E - Systolic BP reading (2469.) 110 mmHg"
+        },
+        {
+          "date": "23 March 2023",
+          "value": "155",
+          "unit": "mmHg",
+          "context": "[23 March 2023]: - Coded entry - O/E - Systolic BP reading (2469.) 155 mmHg"
+        }
+      ]
+    },
+    {
+      "vital_name": "Diastolic Blood Pressure",
+      "measurements": [
+        {
+          "date": "6 January 2025",
+          "value": "60",
+          "unit": "mmHg",
+          "context": "[6 January 2025]: - Coded entry - O/E - Diastolic BP reading (246A.) 60 mmHg"
+        },
+        {
+          "date": "19 November 2024",
+          "value": "111",
+          "unit": "mmHg",
+          "context": "[19 November 2024]: - Coded entry - O/E - Diastolic BP reading (246A.) 111 mmHg"
+        },
+        {
+          "date": "15 November 2024",
+          "value": "76",
+          "unit": "mmHg",
+          "context": "[15 November 2024]: - Coded entry - O/E - Diastolic BP reading (246A.) 76 mmHg"
+        },
+        {
+          "date": "7 March 2024",
+          "value": "54",
+          "unit": "mmHg",
+          "context": "[7 March 2024]: - Coded entry - O/E - Diastolic BP reading (246A.) 54 mmHg"
+        },
+        {
+          "date": "20 April 2023",
+          "value": "58",
+          "unit": "mmHg",
+          "context": "[20 April 2023]: - Coded entry - O/E - Diastolic BP reading (246A.) 58 mmHg"
+        },
+        {
+          "date": "23 March 2023",
+          "value": "75",
+          "unit": "mmHg",
+          "context": "[23 March 2023]: - Coded entry - O/E - Diastolic BP reading (246A.) 75 mmHg"
+        }
+      ]
+    },
+    {
+      "vital_name": "Heart Rate",
+      "measurements": [
+        {
+          "date": "19 November 2024",
+          "value": "101",
+          "unit": "bpm",
+          "context": "- Coded entry - Pulse rate (X773s) 101 bpm"
+        },
+        {
+          "date": "15 November 2024",
+          "value": "74",
+          "unit": "bpm",
+          "context": "- Coded entry - Pulse rate (X773s) 74 bpm"
+        },
+        {
+          "date": "20 April 2023",
+          "value": "95",
+          "unit": "bpm",
+          "context": "- Coded entry - Pulse rate (X773s) 95 bpm"
+        },
+        {
+          "date": "23 March 2023",
+          "value": "108",
+          "unit": "bpm",
+          "context": "- Coded entry - Pulse rate (X773s) 108 bpm"
+        }
+      ]
+    },
+    {
+      "vital_name": "Total Cholesterol",
+      "measurements": [
+        {
+          "date": "19 November 2024",
+          "value": "2.5",
+          "unit": "mmol/L",
+          "context": "[19 November 2024]: - Coded entry - Serum cholesterol level (XE2eD) 2.5 mmol/L"
+        },
+        {
+          "date": "7 March 2024",
+          "value": "4.2",
+          "unit": "mmol/L",
+          "context": "[7 March 2024]: - Coded entry - Serum cholesterol level (XE2eD) 4.2 mmol/L"
+        },
+        {
+          "date": "11 August 2023",
+          "value": "2.9",
+          "unit": "mmol/L",
+          "context": "[11 August 2023]: - Coded entry - Serum cholesterol level (XE2eD) 2.9 mmol/L"
+        },
+        {
+          "date": "23 August 2021",
+          "value": "5.3",
+          "unit": "mmol/L",
+          "context": "[23 August 2021]: - Coded entry - Serum cholesterol level (XE2eD) 5.3 mmol/L [&lt; 5]"
+        }
+      ]
+    },
+    {
+      "vital_name": "HDL Cholesterol",
+      "measurements": [
+        {
+          "date": "19 November 2024",
+          "value": "0.96",
+          "unit": "mmol/L",
+          "context": "[19 November 2024]: - Coded entry - Serum HDL cholesterol level (44P5.) 0.96 mmol/L [1.2 - 5]"
+        },
+        {
+          "date": "7 March 2024",
+          "value": "1.41",
+          "unit": "mmol/L",
+          "context": "[7 March 2024]: - Coded entry - Serum HDL cholesterol level (44P5.) 1.41 mmol/L [1.2 - 5]"
+        },
+        {
+          "date": "11 August 2023",
+          "value": "0.97",
+          "unit": "mmol/L",
+          "context": "[11 August 2023]: - Coded entry - Serum HDL cholesterol level (44P5.) 0.97 mmol/L [1.2 - 5]"
+        },
+        {
+          "date": "23 August 2021",
+          "value": "0.98",
+          "unit": "mmol/L",
+          "context": "[23 August 2021]: - Coded entry - Serum HDL cholesterol level (44P5.) 0.98 mmol/L"
+        },
+        {
+          "date": "UNPARSED",
+          "value": "0.96",
+          "unit": "mmol/L",
+          "context": "[UNPARSED]: Serum HDL cholesterol level 0.96 mmol/L [1.2 - 5.0]; Below low reference limit"
+        },
+        {
+          "date": "UNPARSED",
+          "value": "1.41",
+          "unit": "mmol/L",
+          "context": "[UNPARSED]: Serum HDL cholesterol level 1.41 mmol/L [1.2 - 5.0]"
+        }
+      ]
+    },
+    {
+      "vital_name": "LDL Cholesterol",
+      "measurements": [
+        {
+          "date": "19 November 2024",
+          "value": "1",
+          "unit": "mmol/L",
+          "context": "[19 November 2024]: - Coded entry - Serum LDL cholesterol level (44P6.) 1 mmol/L"
+        },
+        {
+          "date": "7 March 2024",
+          "value": "2.1",
+          "unit": "mmol/L",
+          "context": "[7 March 2024]: - Coded entry - Serum LDL cholesterol level (44P6.) 2.1 mmol/L"
+        },
+        {
+          "date": "11 August 2023",
+          "value": "1.5",
+          "unit": "mmol/L",
+          "context": "[11 August 2023]: - Coded entry - Serum LDL cholesterol level (44P6.) 1.5 mmol/L"
+        },
+        {
+          "date": "23 August 2021",
+          "value": "2.9",
+          "unit": "mmol/L",
+          "context": "[23 August 2021]: - Coded entry - Serum LDL cholesterol level (44P6.) 2.9 mmol/L [0 - 3]"
+        },
+        {
+          "date": "",
+          "value": "1.0",
+          "unit": "mmol/L",
+          "context": "[UNPARSED]: Serum LDL cholesterol level 1.0 mmol/L"
+        },
+        {
+          "date": "",
+          "value": "2.1",
+          "unit": "mmol/L",
+          "context": "[UNPARSED]: Serum LDL cholesterol level 2.1 mmol/L"
+        }
+      ]
+    },
+    {
+      "vital_name": "Triglycerides",
+      "measurements": [
+        {
+          "date": "19 November 2024",
+          "value": "1.1",
+          "unit": "mmol/L",
+          "context": "[19 November 2024]: - Coded entry - Serum triglyceride levels (XE2q9) 1.1 mmol/L [0 - 1.7]"
+        },
+        {
+          "date": "7 March 2024",
+          "value": "1.4",
+          "unit": "mmol/L",
+          "context": "[7 March 2024]: - Coded entry - Serum triglyceride levels (XE2q9) 1.4 mmol/L [0 - 1.7]"
+        },
+        {
+          "date": "11 August 2023",
+          "value": "1",
+          "unit": "mmol/L",
+          "context": "[11 August 2023]: - Coded entry - Serum triglyceride levels (XE2q9) 1 mmol/L [0 - 1.7]"
+        },
+        {
+          "date": "23 August 2021",
+          "value": "3.2",
+          "unit": "mmol/L",
+          "context": "[23 August 2021]: - Coded entry - Serum triglyceride levels (XE2q9) 3.2 mmol/L [&lt; 2]"
+        }
+      ]
+    },
+    {
+      "vital_name": "HbA1c",
+      "measurements": [
+        {
+          "date": "7 February 2025",
+          "value": "40",
+          "unit": "mmol/mol",
+          "context": "[7 February 2025]: - Coded entry - HbA1c target level - IFCC standardised (XaWP9) 40 mmol/mol"
+        }
+      ]
+    },
+    {
+      "vital_name": "Creatinine",
+      "measurements": [
+        {
+          "date": "19 November 2024",
+          "value": "63",
+          "unit": "µmol/L",
+          "context": "- Coded entry - Serum creatinine level (XE2q5) 63 umol/L [49 - 90]"
+        },
+        {
+          "date": "7 March 2024",
+          "value": "69",
+          "unit": "µmol/L",
+          "context": "- Coded entry - Serum creatinine level (XE2q5) 69 umol/L [49 - 90]"
+        },
+        {
+          "date": "11 August 2023",
+          "value": "68",
+          "unit": "µmol/L",
+          "context": "- Coded entry - Serum creatinine level (XE2q5) 68 umol/L [49 - 90]"
+        },
+        {
+          "date": "23 August 2021",
+          "value": "61",
+          "unit": "µmol/L",
+          "context": "- Coded entry - Serum creatinine level (XE2q5) 61 umol/L [62 - 106]"
+        }
+      ]
+    },
+    {
+      "vital_name": "eGFR",
+      "measurements": [
+        {
+          "date": "19 November 2024",
+          "value": "78",
+          "unit": "mL/min/1.73m²",
+          "context": "[19 November 2024]: - Coded entry - eGFR using creatinine (CKD-EPI) per 1.73 square metres (XacUK) 78 mL/min [90 - 120]"
+        },
+        {
+          "date": "7 March 2024",
+          "value": "70",
+          "unit": "mL/min/1.73m²",
+          "context": "[7 March 2024]: - Coded entry - eGFR using creatinine (CKD-EPI) per 1.73 square metres (XacUK) 70 mL/min [90 - 120]"
+        },
+        {
+          "date": "11 August 2023",
+          "value": "71",
+          "unit": "mL/min/1.73m²",
+          "context": "[11 August 2023]: - Coded entry - eGFR using creatinine (CKD-EPI) per 1.73 square metres (XacUK) 71 mL/min [90 - 120]"
+        }
+      ]
+    },
+    {
+      "vital_name": "Urea",
+      "measurements": [
+        {
+          "date": "7 March 2024",
+          "value": "4.1",
+          "unit": "mmol/L",
+          "context": "[7 March 2024]: - Coded entry - Serum urea level (XM0lt) 4.1 mmol/L [2.5 - 7.8]"
+        }
+      ]
+    },
+    {
+      "vital_name": "ALT",
+      "measurements": []
+    },
+    {
+      "vital_name": "AST",
+      "measurements": []
+    },
+    {
+      "vital_name": "ALP",
+      "measurements": [
+        {
+          "date": "19 November 2024",
+          "value": "84",
+          "unit": "U/L",
+          "context": "[19 November 2024]: - Coded entry - Serum alkaline phosphatase level (XE2px) 84 iu/L [30 130]"
+        },
+        {
+          "date": "7 March 2024",
+          "value": "76",
+          "unit": "U/L",
+          "context": "[7 March 2024]: - Coded entry - Serum alkaline phosphatase level (XE2px) 76 iu/L [30 130]"
+        },
+        {
+          "date": "11 August 2023",
+          "value": "115",
+          "unit": "U/L",
+          "context": "[11 August 2023]: - Coded entry - Serum alkaline phosphatase level (XE2px) 115 iu/L [30 130]"
+        },
+        {
+          "date": "23 August 2021",
+          "value": "86",
+          "unit": "U/L",
+          "context": "[23 August 2021]: - Coded entry - Serum alkaline phosphatase level (XE2px) 86 iu/L [40 129]"
+        }
+      ]
+    },
+    {
+      "vital_name": "Bilirubin",
+      "measurements": [
+        {
+          "date": "19 November 2024",
+          "value": "6",
+          "unit": "µmol/L",
+          "context": "[19 November 2024]: - Coded entry - Serum total bilirubin level (XaERu) 6 umol/L [0 - 20]"
+        },
+        {
+          "date": "7 March 2024",
+          "value": "7",
+          "unit": "µmol/L",
+          "context": "[7 March 2024]: - Coded entry - Serum total bilirubin level (XaERu) 7 umol/L [0 - 20]"
+        },
+        {
+          "date": "11 August 2023",
+          "value": "10",
+          "unit": "µmol/L",
+          "context": "[11 August 2023]: - Coded entry - Serum total bilirubin level (XaERu) 10 umol/L [0 - 20]"
+        },
+        {
+          "date": "23 August 2021",
+          "value": "4",
+          "unit": "µmol/L",
+          "context": "[23 August 2021]: - Coded entry - Serum bilirubin level (44E..) 4 umol/L [&lt; 21]"
+        }
+      ]
+    },
+    {
+      "vital_name": "Albumin",
+      "measurements": [
+        {
+          "date": "19 November 2024",
+          "value": "44",
+          "unit": "g/L",
+          "context": "[19 November 2024]: - Coded entry - Serum albumin level (XE2eA) 44 g/L [35 - 50]"
+        },
+        {
+          "date": "7 March 2024",
+          "value": "43",
+          "unit": "g/L",
+          "context": "[7 March 2024]: - Coded entry - Serum albumin level (XE2eA) 43 g/L [35 - 50]"
+        },
+        {
+          "date": "11 August 2023",
+          "value": "44",
+          "unit": "g/L",
+          "context": "[11 August 2023]: - Coded entry - Serum albumin level (XE2eA) 44 g/L [35 - 50]"
+        },
+        {
+          "date": "23 August 2021",
+          "value": "44",
+          "unit": "g/L",
+          "context": "[23 August 2021]: - Coded entry - Serum albumin level (XE2eA) 44 g/L [35 - 52]"
+        }
+      ]
+    },
+    {
+      "vital_name": "Haemoglobin",
+      "measurements": [
+        {
+          "date": "19 November 2024",
+          "value": "113",
+          "unit": "g/L",
+          "context": "- Coded entry - Haemoglobin concentration (Xa96v) 113 g/L [115 - 165]"
+        },
+        {
+          "date": "7 March 2024",
+          "value": "113",
+          "unit": "g/L",
+          "context": "- Coded entry - Haemoglobin concentration (Xa96v) 113 g/L [115 - 165]"
+        },
+        {
+          "date": "11 August 2023",
+          "value": "119",
+          "unit": "g/L",
+          "context": "- Coded entry - Haemoglobin concentration (Xa96v) 119 g/L [115 - 165]"
+        },
+        {
+          "date": "23 August 2021",
+          "value": "137",
+          "unit": "g/L",
+          "context": "- Coded entry - Haemoglobin concentration (Xa96v) 137 g/L [130 - 170]"
+        }
+      ]
+    },
+    {
+      "vital_name": "Platelets",
+      "measurements": [
+        {
+          "date": "19 November 2024",
+          "value": "291",
+          "unit": "10^9/L",
+          "context": "[19 November 2024]: - Coded entry - Platelet count - observation (42P..) 291 10^9/L [150 - 450]"
+        },
+        {
+          "date": "7 March 2024",
+          "value": "236",
+          "unit": "10^9/L",
+          "context": "[7 March 2024]: - Coded entry - Platelet count - observation (42P..) 236 10^9/L [150 - 450]"
+        },
+        {
+          "date": "11 August 2023",
+          "value": "262",
+          "unit": "10^9/L",
+          "context": "[11 August 2023]: - Coded entry - Platelet count - observation (42P..) 262 10^9/L [150 - 450]"
+        },
+        {
+          "date": "23 August 2021",
+          "value": "274",
+          "unit": "10^9/L",
+          "context": "[23 August 2021]: - Coded entry - Platelet count - observation (42P..) 274 10^9/L [150 - 400]"
+        },
+        {
+          "date": "1 January 1900",
+          "value": "262",
+          "unit": "10*9/L",
+          "context": "[1 January 1900]: Platelet count - observation 262 10*9/L [150.0 - 450.0]"
+        }
+      ]
+    },
+    {
+      "vital_name": "RBC",
+      "measurements": [
+        {
+          "date": "19 November 2024",
+          "value": "4.32",
+          "unit": "10^12/L",
+          "context": "[19 November 2024]: - Coded entry - Red blood cell count (426..) 4.32 10^12/L [3.5 - 5.5]"
+        },
+        {
+          "date": "7 March 2024",
+          "value": "4.15",
+          "unit": "10^12/L",
+          "context": "[7 March 2024]: - Coded entry - Red blood cell count (426..) 4.15 10^12/L [3.5 - 5.5]"
+        },
+        {
+          "date": "11 August 2023",
+          "value": "4.63",
+          "unit": "10^12/L",
+          "context": "[11 August 2023]: - Coded entry - Red blood cell count (426..) 4.63 10^12/L [3.5 - 5.5]"
+        },
+        {
+          "date": "23 August 2021",
+          "value": "4.77",
+          "unit": "10^12/L",
+          "context": "[23 August 2021]: - Coded entry - Red blood cell count (426..) 4.77 10^12/L [4.32 - 5.6]"
+        },
+        {
+          "date": "UNPARSED",
+          "value": "4.63",
+          "unit": "10^12/L",
+          "context": "[UNPARSED]: Red blood cell count 4.63 10*12/L [3.5 - 5.5]"
+        }
+      ]
+    },
+    {
+      "vital_name": "CRP",
+      "measurements": []
+    },
+    {
+      "vital_name": "TSH",
+      "measurements": [
+        {
+          "date": "19 November 2024",
+          "value": "1.75",
+          "unit": "mIU/L",
+          "context": "- Coded entry - Serum TSH level (XaELV) 1.75 miu/L [0.35 - 4.94]"
+        },
+        {
+          "date": "7 March 2024",
+          "value": "1.3",
+          "unit": "mIU/L",
+          "context": "- Coded entry - Serum TSH level (XaELV) 1.3 miu/L [0.35 - 4.94]"
+        },
+        {
+          "date": "11 August 2023",
+          "value": "1.76",
+          "unit": "mIU/L",
+          "context": "- Coded entry - Serum TSH level (XaELV) 1.76 miu/L [0.35 - 4.94]"
+        },
+        {
+          "date": "23 August 2021",
+          "value": "1.94",
+          "unit": "mIU/L",
+          "context": "- Coded entry - Serum TSH level (XaELV) 1.94 miu/L [0.3 - 3.18]"
+        }
+      ]
+    },
+    {
+      "vital_name": "Oxygen Saturation",
+      "measurements": [
+        {
+          "date": "15 November 2024",
+          "value": "99",
+          "unit": "%",
+          "context": "[15 November 2024]: - Coded entry - Peripheral blood oxygen saturation on room air at rest (Xaa6j) 99 %"
+        },
+        {
+          "date": "23 March 2023",
+          "value": "98",
+          "unit": "%",
+          "context": "[23 March 2023]: - Coded entry - Oxygen saturation at periphery (X770D) 98 %"
+        }
+      ]
+    },
+    {
+      "vital_name": "Respiratory Rate",
+      "measurements": [
+        {
+          "date": "15 November 2024",
+          "value": "18",
+          "unit": "breaths/min",
+          "context": "- Coded entry - Respiratory rate (X774f) 18 breath/min"
+        }
+      ]
+    }
+  ]
+}

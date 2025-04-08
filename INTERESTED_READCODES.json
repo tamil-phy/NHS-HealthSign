@@ -1,0 +1,267 @@
+{
+  "cancer": [
+    {
+      "condition": "Malignant Neoplasm of Breast",
+      "CTV3_code": "B34..00",
+      "SNOMED_CT_code": "254837009"
+    },
+    {
+      "condition": "Malignant Neoplasm of Prostate",
+      "CTV3_code": "B46..00",
+      "SNOMED_CT_code": "399068003"
+    },
+    {
+      "condition": "Malignant Neoplasm of Lung",
+      "CTV3_code": "B22z.00",
+      "SNOMED_CT_code": "254637007"
+    },
+    {
+      "condition": "Malignant Neoplasm of Colon",
+      "CTV3_code": "B13..00",
+      "SNOMED_CT_code": "363406005"
+    },
+    {
+      "condition": "Malignant Melanoma of Skin",
+      "CTV3_code": "B32..00",
+      "SNOMED_CT_code": "372244006"
+    },
+    {
+      "condition": "Leukemia",
+      "CTV3_code": "B60..00",
+      "SNOMED_CT_code": "93143009"
+    },
+    {
+      "condition": "Lymphoma",
+      "CTV3_code": "B57..00",
+      "SNOMED_CT_code": "118600007"
+    },
+    {
+      "condition": "Malignant Neoplasm of Ovary",
+      "CTV3_code": "B440.00",
+      "SNOMED_CT_code": "363443007"
+    },
+    {
+      "condition": "Malignant Neoplasm of Pancreas",
+      "CTV3_code": "B17z.00",
+      "SNOMED_CT_code": "363418001"
+    },
+    {
+      "condition": "Malignant Neoplasm of Bladder",
+      "CTV3_code": "B49z.00",
+      "SNOMED_CT_code": "363355000"
+    }
+  ],
+  "heart_disease": [
+    {
+      "condition": "Angina Pectoris",
+      "CTV3_code": "G33..00",
+      "SNOMED_CT_code": "194828000"
+    },
+    {
+      "condition": "Acute Myocardial Infarction",
+      "CTV3_code": "G30..00",
+      "SNOMED_CT_code": "57054005"
+    },
+    {
+      "condition": "Chronic Ischemic Heart Disease",
+      "CTV3_code": "G3...00",
+      "SNOMED_CT_code": "413839001"
+    },
+    {
+      "condition": "Congestive Heart Failure",
+      "CTV3_code": "G58..00",
+      "SNOMED_CT_code": "42343007"
+    },
+    {
+      "condition": "Atrial Fibrillation",
+      "CTV3_code": "G573.00",
+      "SNOMED_CT_code": "49436004"
+    },
+    {
+      "condition": "Aortic Valve Stenosis",
+      "CTV3_code": "G5A..00",
+      "SNOMED_CT_code": "300546002"
+    },
+    {
+      "condition": "Mitral Valve Regurgitation",
+      "CTV3_code": "G5B..00",
+      "SNOMED_CT_code": "230690007"
+    },
+    {
+      "condition": "Cardiomyopathy",
+      "CTV3_code": "G54..00",
+      "SNOMED_CT_code": "85898001"
+    },
+    {
+      "condition": "Hypertensive Heart Disease",
+      "CTV3_code": "G3...11",
+      "SNOMED_CT_code": "56265001"
+    },
+    {
+      "condition": "Coronary Artery Bypass Graft",
+      "CTV3_code": "7A63200",
+      "SNOMED_CT_code": "232717009"
+    },
+    {
+  "condition": "QRISK2 cardiovascular disease 10-year risk score",
+  "CTV3_code": "XaQVY",
+  "SNOMED_CT_code": "445326007"
+    }
+  ],
+  "respiratory_disease": [
+    {
+      "condition": "Chronic Obstructive Pulmonary Disease (COPD)",
+      "CTV3_code": "H3...00",
+      "SNOMED_CT_code": "13645005"
+    },
+    {
+      "condition": "Pulmonary Fibrosis",
+      "CTV3_code": "H563.00",
+      "SNOMED_CT_code": "233604007"
+    },
+    {
+      "condition": "Cystic Fibrosis",
+      "CTV3_code": "H55..00",
+      "SNOMED_CT_code": "190905008"
+    },
+    {
+      "condition": "Pulmonary Hypertension",
+      "CTV3_code": "G22..00",
+      "SNOMED_CT_code": "70995007"
+    },
+    {
+      "condition": "Sarcoidosis",
+      "CTV3_code": "H56..00",
+      "SNOMED_CT_code": "34000006"
+    },
+    {
+      "condition": "Emphysema",
+      "CTV3_code": "H312.00",
+      "SNOMED_CT_code": "87433001"
+    },
+    {
+      "condition": "Bronchiectasis",
+      "CTV3_code": "H31..00",
+      "SNOMED_CT_code": "370218001"
+    },
+    {
+      "condition": "Lung Cancer",
+      "CTV3_code": "B22z.00",
+      "SNOMED_CT_code": "254637007"
+    },
+    {
+      "condition": "Pulmonary Embolism",
+      "CTV3_code": "G800.00",
+      "SNOMED_CT_code": "59282003"
+    },
+    {
+      "condition": "Pneumonia",
+      "CTV3_code": "H2...00",
+      "SNOMED_CT_code": "233604007"
+    }
+  ],
+  "diabetes": [
+    {
+      "condition": "Diabetic Nephropathy",
+      "CTV3_code": "C10F.00",
+      "SNOMED_CT_code": "127013003"
+    },
+    {
+      "condition": "Diabetic Retinopathy",
+      "CTV3_code": "C10E.00",
+      "SNOMED_CT_code": "4855003"
+    },
+    {
+      "condition": "Diabetic Neuropathy",
+      "CTV3_code": "C10G.00",
+      "SNOMED_CT_code": "44054006"
+    },
+    {
+      "condition": "Diabetic Foot Ulcer",
+      "CTV3_code": "C10H.00",
+      "SNOMED_CT_code": "46894009"
+    },
+    {
+      "condition": "Diabetic Ketoacidosis",
+      "CTV3_code": "C10I.00",
+      "SNOMED_CT_code": "111552007"
+    },
+    {
+      "condition": "Hyperosmolar Hyperglycemic State",
+      "CTV3_code": "C10J.00",
+      "SNOMED_CT_code": "80394007"
+    },
+    {
+      "condition": "Proliferative Diabetic Retinopathy",
+      "CTV3_code": "C10K.00",
+      "SNOMED_CT_code": "127013003"
+    },
+    {
+      "condition": "Diabetic Amyotrophy",
+      "CTV3_code": "C10L.00",
+      "SNOMED_CT_code": "23045005"
+    },
+    {
+      "condition": "Diabetic Gastroparesis",
+      "CTV3_code": "C10M.00",
+      "SNOMED_CT_code": "190412005"
+    },
+    {
+      "condition": "Diabetic Cardiomyopathy",
+      "CTV3_code": "C10N.00",
+      "SNOMED_CT_code": "111552007"
+    }
+  ],
+  "stroke": [
+    {
+      "condition": "Major Ischemic Stroke with Significant Residual Impairment",
+      "CTV3_code": "G66..00",
+      "SNOMED_CT_code": "422504002"
+    },
+    {
+      "condition": "Hemorrhagic Stroke with Severe Neurological Deficit",
+      "CTV3_code": "G65..00",
+      "SNOMED_CT_code": "422500002"
+    },
+    {
+      "condition": "Multiple Strokes Leading to Progressive Cognitive Decline",
+      "CTV3_code": "G6...00",
+      "SNOMED_CT_code": "230690007"
+    },
+    {
+      "condition": "Stroke Resulting in Permanent Paralysis",
+      "CTV3_code": "G64..00",
+      "SNOMED_CT_code": "230719002"
+    },
+    {
+      "condition": "Stroke with Aphasia Impeding Communication",
+      "CTV3_code": "F25..00",
+      "SNOMED_CT_code": "62315008"
+    },
+    {
+      "condition": "Stroke-Induced Severe Dysphagia",
+      "CTV3_code": "J1...00",
+      "SNOMED_CT_code": "78164000"
+    },
+    {
+      "condition": "Post-Stroke Epilepsy Uncontrolled by Medication",
+      "CTV3_code": "F25z.00",
+      "SNOMED_CT_code": "84757009"
+    },
+    {
+      "condition": "Stroke Leading to Severe Visual Field Loss",
+      "CTV3_code": "F45..00",
+      "SNOMED_CT_code": "193093009"
+    },
+    {
+      "condition": "Stroke with Persistent Severe Ataxia",
+      "CTV3_code": "F23..00",
+      "SNOMED_CT_code": "230736004"
+    },
+    {
+      "condition": "Stroke Resulting in Severe Depression or Mood Disorders",
+      "CTV3_code": "E204.00",
+      "SNOMED_CT_code": "35489007"
+    }
+  ]
+} 

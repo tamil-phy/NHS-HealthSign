@@ -1,0 +1,87 @@
+- Coded entry - Asthma trigger - exercise (XaObj)
+- Coded entry - Asthma not limiting activities (663Q.)
+- Coded entry - Asthma monitoring by nurse (XaIu5)
+- Coded entry - Asthma Control (Y0024)
+- Coded entry - Asthma control test (XaQHq) 20 - ; Did your asthma prevent you from getting as much done at work/school/home?: None of the time; Have you had shortness of breath?: None at all; Did your asthma symptoms wake you up at night or early in the morning?: 4 or more times a week; Have you used your reliever inhaler (usually blue)?: Not at all; How would you rate your asthma control?: Well controlled
+- Coded entry - Minor: Asthma annual review (XaIeq) (New Episode)
+- Coded entry - Asthma annual review (XaIeq)
+- Coded entry - Asthma control test (XaQHq) 20
+- Coded entry - Routine (X78uI)
+- Coded entry - Bronchodilator used infrequently (XaZ4m)
+- Coded entry - Consultation (Xa1qL)
+- Coded entry - Medication review done (XaF8d)
+- Coded entry - Asthma trigger - airborne dust (XaObi)
+- Coded entry - Provision of advice, assessment or treatment limited due to coronavirus disease 19 caused by severe acute respiratory syndrome coronavirus 2 pandemic (situation) (Y22b6)
+- Coded entry - Patient given advice (8CA..)
+- Coded entry - Plan (XaIVg)
+- Coded entry - Clinical history and observations (X76sV)
+- Coded entry - Treatment not indicated (8I6..)
+- Coded entry - Number of asthma exacerbations in past year (XaINh) 0
+- Coded entry - Asthma control test (XaQHq) 20
+- Coded entry - Number of prescriptions for reliever inhaler per year (Xafey)
+- Coded entry - Asthma - currently active (XaDvK) (Ongoing Episode)
+- Coded entry - Good compliance with inhaler (XaIPs)
+- Coded entry - Inhaler technique - good (663H.)
+- Coded entry - Asthma medication review (XaIfK)
+- Problem - Asthma annual review (XaIeq)
+## 14 September 2021
+Langley Corner Surgery (General Practice) - Karen Martin (Receptionist Access Role)
+- Coded entry - Administration note (XaIg4)
+## 10 September 2021
+Langley Corner Surgery (General Practice) - Simone Johnston
+- Coded entry - Influenza vaccination invitation 1st SMS text message sent (XaXjn)
+## 9 September 2021
+Langley Corner Surgery (General Practice) - Dr Jude Gunasegaram (Clinical Practitioner Access Role)
+- Medication template - Metformin 500mg tablets - 168 tablet - take one 3 times/day; Ended 03 Jul 2023 Re-Authorised by Ms Natalie Greenall
+- Coded entry - Chronic long term disease management required (XaKdU)
+- Coded entry - Additional SCR dataset uploaded under COPI Regulations (Y237d)
+- Coded entry - Oct 1993 primrose (yz0A.)
+## 8 September 2021
+Langley Corner Surgery (General Practice) - Dr Bilal Ali (Clinical Practitioner Access Role)
+- Medication template - Metformin 500mg tablets - 168 tablet - take one 3 times/day; Ended 09 Sep 2021 Re-Authorised by Dr Jude Gunasegaram
+- Medication - (R) Metformin 500mg tablets - 168 tablet - take one 3 times/day
+- Coded entry - Provision of advice, assessment or treatment limited due to coronavirus disease 19 caused by severe acute respiratory syndrome coronavirus 2 pandemic (situation) (Y22b6)
+- Coded entry - Telephone consultation (XaIge)
+- Coded entry - Additional SCR dataset uploaded under COPI Regulations (Y237d)
+## 27 August 2021
+Langley Corner Surgery (General Practice) - Dr Emma Murphy (Clinical Practitioner Access Role)
+- Coded entry - Additional SCR dataset uploaded under COPI Regulations (Y237d)
+- Coded entry - Type II diabetes mellitus (X40J5)
+## 25 August 2021
+Langley Corner Surgery (General Practice) - Joanna Chalk (Health Professional Access Role)
+- Vaccination - Pneumovax 23 1 0.5 ml
+- Coded entry - Additional SCR dataset uploaded under COPI Regulations (Y237d)
+- Coded entry - Administration of vaccine under patient specific direction (XaZ2P)
+- Coded entry - Immunisation consent given (XaCFi)
+- Coded entry - Requires a pneumococcal vaccination (XaM2n)
+- Coded entry - Advice on immunisation (XE1TP)
+## 25 August 2021
+Langley Corner Surgery (General Practice) - Sharon Atkinson (Nurse Access Role)
+- Coded entry - Has authorisation for medication under PSD (XaZ08)
+## 24 August 2021
+Langley Corner Surgery (General Practice) - Amanda Rawcliffe (Systems Support Access Role)
+- Coded entry - Additional SCR dataset uploaded under COPI Regulations (Y237d)
+## 24 August 2021
+Langley Corner Surgery (General Practice) - Dr Emma Murphy (Clinical Practitioner Access Role)
+- Coded entry - QRISK2 cardiovascular disease 10 year risk score (XaQVY) 44.66 %
+## 23 August 2021
+Langley Corner Surgery (General Practice) - Dr Emma Murphy (Clinical Practitioner Access Role)
+- Test result - Serum TSH level Report, Normal, No Further Action (Patient Informed). Review not applicable
+- Coded entry - Serum TSH level (XaELV) 1.94 miu/L [0.3 - 3.18]
+## 23 August 2021
+Langley Corner Surgery (General Practice) - Dr Emma Murphy (Clinical Practitioner Access Role)
+- Test result - Haemoglobin A1c level - IFCC standardised Report, Abnormal, Need to speak to doctor (Patient Informed). Review not applicable
+- Coded entry - Haemoglobin A1c level - IFCC standardised (XaPbt) 55 mmol/mol
+## 23 August 2021
+Langley Corner Surgery (General Practice) - Dr Emma Murphy (Clinical Practitioner Access Role)
+- Test result - Full blood count Report, Normal, No Further Action (Patient Informed). Review not applicable
+- Coded entry - Platelet count - observation (42P..) 274 10^9/L [150 - 400]
+- Coded entry - Neutrophil count (42J..) 5.9 10^9/L [1.5 - 7.4]
+- Coded entry - Red blood cell distribution width (XE2mO) 12.8 % [9.9 15.5]
+- Coded entry - Mean cell haemoglobin level (XE2pb) 28.7 pg [27.3 - 32.6]
+- Coded entry - Mean cell haemoglobin concentration (429..) 33.7 g/dL [32 - 35]
+- Coded entry - Basophil count (42L..) 0.1 10^9/L [&lt; 0.2]
+- Coded entry - Nucleated red blood cell count (4266.) 0 10^9/L
+- Coded entry - Eosinophil count - observation (42K..) 0.3 10^9/L [0 - 0.7]
+- Coded entry - Lymphocyte count (42M..) 3.3 10^9/L [1.1 - 4]
+- Coded entry - Monocyte count - observation (42N..) 0.7 10^9/L [&lt; 0.95]

@@ -1,0 +1,74 @@
+- Medication - (R) Gabapentin 300mg capsules - 84 capsule - take one 3 times a day
+- Medication - (R) Lansoprazole 15mg gastro-resistant capsules (A A H Pharmaceuticals Ltd) - 56 capsule - take one a day
+- Medication - (R) Metformin 500mg tablets - 84 tablet - take one 3 times/day
+- Medication - (R) Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd) - 60 dose - inhale 1 dose twice daily
+## 8 August 2024
+Langley Corner Surgery (General Practice) - Nancy Rosen (Receptionist Access Role)
+- Medication - (R) Atorvastatin 40mg tablets - 28 tablet - take one daily
+- Medication - (R) Clopidogrel 75mg tablets - 28 tablet - take one once daily and as per discharge 10.04.23
+- Medication - (R) Gabapentin 300mg capsules - 84 capsule - take one 3 times a day
+- Medication - (R) Metformin 500mg tablets - 84 tablet - take one 3 times/day
+- Medication - (R) Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd) - 60 dose - inhale 1 dose twice daily
+## 15 July 2024
+Langley Corner Surgery (General Practice) - Amelia Bown (Systems Support Access Role)
+- Medication - (R) Atorvastatin 40mg tablets - 28 tablet - take one daily
+- Medication - (R) Clopidogrel 75mg tablets - 28 tablet - take one once daily and as per discharge 10.04.23
+- Medication - (R) Metformin 500mg tablets - 84 tablet - take one 3 times/day
+- Medication - (R) Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd) - 60 dose - inhale 1 dose twice daily
+## 1 July 2024
+Langley Corner Surgery (General Practice) - Amelia Bown (Systems Support Access Role)
+- Medication - (R) Gabapentin 300mg capsules - 84 capsule - take one 3 times a day
+- Medication - (R) Lansoprazole 15mg gastro-resistant capsules (A A H Pharmaceuticals Ltd) - 56 capsule - take one a day
+## 6 June 2024
+Langley Corner Surgery (General Practice) - Nancy Rosen (Receptionist Access Role)
+- Medication - (R) Atorvastatin 40mg tablets - 28 tablet - take one daily
+- Medication - (R) Clopidogrel 75mg tablets - 28 tablet - take one once daily and as per discharge 10.04.23
+- Medication - (R) Gabapentin 300mg capsules - 84 capsule - take one 3 times a day
+- Medication - (R) Lansoprazole 15mg gastro-resistant capsules (A A H Pharmaceuticals Ltd) - 56 capsule - take one a day
+- Medication - (R) Metformin 500mg tablets - 84 tablet - take one 3 times/day
+- Medication - (R) Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd) - 60 dose - inhale 1 dose twice daily
+## 1 May 2024
+Langley Corner Surgery (General Practice) - Tina Miles (Systems Support Access Role)
+- Medication - (R) Atorvastatin 40mg tablets - 28 tablet - take one daily
+- Medication - (R) Clopidogrel 75mg tablets - 28 tablet - take one once daily and as per discharge 10.04.23
+- Medication - (R) Gabapentin 300mg capsules - 84 capsule - take one 3 times a day
+- Medication - (R) Lansoprazole 15mg gastro-resistant capsules (A A H Pharmaceuticals Ltd) - 56 capsule - take one a day
+- Medication - (R) Metformin 500mg tablets - 84 tablet - take one 3 times/day
+- Medication - (R) Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd) - 60 dose - inhale 1 dose twice daily
+## 15 April 2024
+Langley Corner Surgery (General Practice) - Dr Jude Gunasegaram
+- Coded entry - Feb 1993 clematis (yz02.)
+## 5 April 2024
+Langley Corner Surgery (General Practice) - Susan Dooley (Receptionist Access Role)
+- Medication - (R) Atorvastatin 40mg tablets - 28 tablet - take one daily
+- Medication - (R) Clopidogrel 75mg tablets - 28 tablet - take one once daily and as per discharge 10.04.23
+- Medication - (R) Gabapentin 300mg capsules - 84 capsule - take one 3 times a day
+- Medication - (R) Lansoprazole 15mg gastro-resistant capsules (A A H Pharmaceuticals Ltd) - 56 capsule - take one a day
+- Medication - (R) Metformin 500mg tablets - 84 tablet - take one 3 times/day
+- Medication - (R) Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd) - 60 dose - inhale 1 dose twice daily
+## 18 March 2024
+Langley Corner Surgery (General Practice) - Dr Ketan Kansagra (Clinical Practitioner Access Role)
+- Coded entry - Short message service text message sent to patient (XaMiI)
+- Coded entry - Patient telephone number (9159.)
+## 18 March 2024
+Langley Corner Surgery (General Practice) - Dr Ketan Kansagra (Clinical Practitioner Access Role)
+- Test request - Pathology Request (Request Sent):; Vitamin B12/Folate Levels, Blood (Requested), Creatinine &amp; Electrolytes Profile, Blood (Requested), Full Blood Count, Blood (Requested), Ferritin Level, Blood (Requested)
+- Coded entry - Lipid lowering therapy not indicated (XaIMm)
+- Coded entry - Dementia annual review (XaMGF)
+- Coded entry - Chronic disease management annual review completed (Xaagy)
+- Coded entry - Patient on maximal tolerated lipid lowering therapy (XaJ5i)
+- Coded entry - Dementia advance care plan agreed (XabEk)
+- Coded entry - Dementia medication review (XabtQ)
+## 13 March 2024
+Langley Corner Surgery (General Practice) - Dr Mohamed Athaullah (Clinical Practitioner Access Role)
+- Test request - Pathology Request (Complete):; Creatinine &amp; Electrolytes Profile, Blood (Postponed)
+## 8 March 2024
+Langley Corner Surgery (General Practice) - Auto-filed
+- Test result - Urine albumin level Report, Normal, No Further Action. Review done by Dr Jude Gunasegaram at Langley Corner Surgery (NHS Sussex Icb - 70f) - 11 Mar 2024 15:27
+- Coded entry - Urine albumin level (XE2eI)
+- Coded entry - Urine creatinine level (XE2qO) 3.6 mmol/L
+- Coded entry - Urine albumin level (XE2eI) 7.5 mg/L
+- Coded entry - Urine albumin/creatinine ratio (XE2n3) 2.1 mg/mmol [0 3]
+## 7 March 2024
+Langley Corner Surgery (General Practice) - Auto-filed
+- Test result - Serum TSH level Report, Abnormal, Need to speak to doctor (Patient Informed). Review done by Dr Charlotte Stock at Langley Corner Surgery (NHS Sussex Icb - 70f) - 11 Mar 2024 09:30

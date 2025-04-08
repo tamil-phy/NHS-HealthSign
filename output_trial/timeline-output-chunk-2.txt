@@ -1,0 +1,90 @@
+- Coded entry - O/E - No left foot deformity (XaK21)
+- Coded entry - O/E - left healed foot ulcer (XaKGp)
+- Blood pressure - 130 / 60 mmHg
+## 6 January 2025
+Langley Corner Surgery (General Practice) - Auto-filed
+- Test result - Urinary microscopy, culture and sensitivities Report, Abnormal, but expected, Other (on correct abx) (Patient Informed). Review done by Dr Pria Suchak at Langley Corner Surgery (NHS Sussex Icb - 70f) - 13 Jan 2025 17:55
+- Coded entry - Urine culture (46U..)
+- Coded entry - Urinary microscopy, culture and sensitivities (XaIvw)
+- Coded entry - Urinary microscopy, culture and sensitivities (XaIvw)
+- Coded entry - Urine culture (46U..)
+## 6 January 2025
+Langley Corner Surgery (General Practice) - Auto-filed
+- Test result - ESBL FLAG Report, Abnormal, Other (positive but on correct abx) (Patient Informed). Review done by Dr Pria Suchak at Langley Corner Surgery (NHS Sussex Icb - 70f) - 13 Jan 2025 17:50
+## 3 January 2025
+Langley Corner Surgery (General Practice) - Dr Muhammad Asif Nazir (Clinical Practitioner Access Role)
+- Medication - Gabapentin 300mg capsules - 100 capsule - take 1 tablet in morning, one in afternoon and 2 at night for 1 week, then one in morning, 2 in the afternoon and 2 night for 1 week then 2 in the morning, 2 in the afternoon and 2 at night
+## 3 January 2025
+Langley Corner Surgery (General Practice) - Dr Muhammad Asif Nazir (Clinical Practitioner Access Role)
+- Coded entry - Differential diagnosis (XSMiS)
+- Coded entry - Clinical examination (XB001)
+- Coded entry - Plan (XaIVg)
+- Coded entry - Consultation (Xa1qL)
+- Coded entry - Clinical history and observations (X76sV)
+## 17 December 2024
+Langley Corner Surgery (General Practice) - Reena Lobo (Receptionist Access Role)
+- Coded entry - Never smoked tobacco (XE0oh)
+- Coded entry - Lifetime non-drinker (Ub0lH)
+- Coded entry - Quality and Outcomes Framework quality indicatorrelated care invitation (procedure) (Y1f8f)
+- Coded entry - Agreeing on mental health care plan (Xaa8p)
+## 11 December 2024
+Langley Corner Surgery (General Practice) - Joanna Chalk (Health Professional Access Role)
+- Medication - (R) Hydroxocobalamin 1mg/1ml solution for injection ampoules - 1 ampoule - as per psd
+- Coded entry - Right (7NB31)
+- Coded entry - Hydroxocobalamin 1mg/1mL injection (i312.)
+- Coded entry - Informed consent given (XaLQR)
+- Coded entry - Batch number and expiry date (Y4615)
+## 11 December 2024
+Langley Corner Surgery (General Practice) - Joanna Chalk (Health Professional Access Role)
+- Coded entry - Patient informed of next injection due date (Y1378)
+## 9 December 2024
+Langley Corner Surgery (General Practice) - Joanna Chalk (Health Professional Access Role)
+- Medication - (R) Hydroxocobalamin 1mg/1ml solution for injection ampoules - 1 ampoule - as per psd
+- Coded entry - Hydroxocobalamin 1mg/1mL injection (i312.)
+- Coded entry - Informed consent given (XaLQR)
+- Coded entry - Batch number and expiry date (Y4615)
+## 6 December 2024
+Langley Corner Surgery (General Practice) - Danielle McComb (Health Professional Access Role)
+- Medication - (R) Hydroxocobalamin 1mg/1ml solution for injection ampoules - 1 ampoule - as per psd
+- Coded entry - Hydroxocobalamin 1mg/1mL injection (i312.)
+- Coded entry - Informed consent given (XaLQR)
+- Coded entry - Batch number and expiry date (Y4615)
+- Coded entry - Left (7NB32)
+## 6 December 2024
+Langley Corner Surgery (General Practice) - Jacqueline Kensett (Health Professional Access Role)
+- Coded entry - Patient informed of next injection due date (Y1378)
+## 4 December 2024
+Langley Corner Surgery (General Practice) - Jacqueline Kensett (Health Professional Access Role)
+- Medication - (R) Hydroxocobalamin 1mg/1ml solution for injection ampoules - 1 ampoule - as per psd
+- Coded entry - Hydroxocobalamin 1mg/1mL injection (i312.)
+- Coded entry - Informed consent given (XaLQR)
+- Coded entry - Batch number and expiry date (Y4615)
+- Coded entry - Left (7NB32)
+## 4 December 2024
+Langley Corner Surgery (General Practice) - Lorraine Pope (Receptionist Access Role)
+- Medication - (R) Atorvastatin 40mg tablets - 56 tablet - take one daily
+- Medication - (R) Clopidogrel 75mg tablets - 56 tablet - take one once daily and as per discharge 10.04.23
+- Medication - (R) Gabapentin 300mg capsules - 168 capsule - take one 3 times a day (Future dated medication 11 Dec 2024)
+- Medication - (R) Lansoprazole 15mg gastro-resistant capsules (A A H Pharmaceuticals Ltd) - 56 capsule - take one a day
+- Medication - (R) Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd) - 60 dose - inhale 1 dose twice daily
+## 2 December 2024
+Langley Corner Surgery (General Practice) - Maria Elena Garcia Puig (Nurse Access Role)
+- Medication - (R) Hydroxocobalamin 1mg/1ml solution for injection ampoules - 1 ampoule - as per psd
+- Coded entry - Informed consent given (XaLQR)
+- Coded entry - Batch number and expiry date (Y4615)
+- Coded entry - Left (7NB32)
+- Coded entry - Hydroxocobalamin 1mg/1mL injection (i312.)
+## 27 November 2024
+Langley Corner Surgery (General Practice) - Jacqueline Kensett (Health Professional Access Role)
+- Coded entry - Informed consent given (XaLQR)
+- Coded entry - Batch number and expiry date (Y4615)
+- Coded entry - Right (7NB31)
+- Coded entry - Hydroxocobalamin 1mg/1mL injection (i312.)
+## 27 November 2024
+Langley Corner Surgery (General Practice) - Jacqueline Kensett (Health Professional Access Role)
+- Medication - (R) Hydroxocobalamin 1mg/1ml solution for injection ampoules - 1 ampoule - as per psd
+## 22 November 2024
+Langley Corner Surgery (General Practice) - Dr Jude Gunasegaram (Clinical Practitioner Access Role)
+- Test request - Pathology Request (Request Sent):; Faecal Immunochemical Test, Faeces (Requested)
+- Test request - Pathology Request (Request Sent):; Creatinine &amp; Electrolytes Profile, Blood (Requested), Ferritin Level, Blood (Requested), Iron And Transferrin Levels, Blood (Requested)
+- Test request - Pathology Request (Request Sent):; Intrinsic Factor Ab Level, Blood (Requested), Coeliac Screen - Iga TTG &amp; Level, Blood (Requested)

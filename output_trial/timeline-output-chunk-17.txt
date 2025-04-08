@@ -1,0 +1,101 @@
+- Coded entry - Full blood count (424..)
+- Coded entry - Haematocrit (X76tb) 0.407 [0.4 - 0.5]
+- Coded entry - Mean cell volume (42A..) 85 fL [82 - 98]
+- Coded entry - Haemoglobin concentration (Xa96v) 137 g/L [130 - 170]
+- Coded entry - Total white blood count (XaIdY) 10.3 10^9/L [3.7 - 11.1]
+- Coded entry - Red blood cell count (426..) 4.77 10^12/L [4.32 - 5.6]
+## 23 August 2021
+Langley Corner Surgery (General Practice) - Dr Emma Murphy (Clinical Practitioner Access Role)
+- Test result - Liver function tests;Serum lipid levels;Bone profile;GFR calculated abbreviated MDRD;Serum sodium level;Serum potassium level;Serum creatinine level;non-HDL Cholesterol Report, Borderline, Other (Patient Informed). Review not applicable
+- Coded entry - Serum cholesterol/HDL ratio (XaEUq) 5.41 mmol/mmol
+- Coded entry - Bone profile (44Z2.)
+- Coded entry - Serum HDL cholesterol level (44P5.) 0.98 mmol/L
+- Coded entry - Serum LDL cholesterol level (44P6.) 2.9 mmol/L [0 - 3]
+- Coded entry - Serum calcium level (XE2q3) 2.46 mmol/L [2.15 - 2.55]
+- Coded entry - Serum alkaline phosphatase level (XE2px) 86 iu/L [40 129]
+- Coded entry - Serum adjusted calcium concentration (Xabpk) 2.38 mmol/L [2.15 - 2.55]
+- Coded entry - Serum inorganic phosphate level (XE2q4) 1.12 mmol/L [0.81 - 1.45]
+- Coded entry - Serum albumin level (XE2eA) 44 g/L [35 - 52]
+- Coded entry - Liver function tests (X77WP)
+- Coded entry - Serum total protein level (XE2e9) 69 g/L [64 - 83]
+- Coded entry - Serum bilirubin level (44E..) 4 umol/L [&lt; 21]
+- Coded entry - Serum cholesterol level (XE2eD) 5.3 mmol/L [&lt; 5]
+- Coded entry - Serum triglyceride levels (XE2q9) 3.2 mmol/L [&lt; 2]
+- Coded entry - Serum alanine aminotransferase level (XaLJx) 17 iu/L [&lt; 41]
+- Coded entry - Serum lipid levels (XE2q7)
+- Coded entry - Serum creatinine level (XE2q5) 61 umol/L [62 - 106]
+- Coded entry - Serum potassium level (XE2pz) 4.5 mmol/L [3.5 - 5.1]
+- Coded entry - GFR calculated abbreviated MDRD (XaK8y)
+- Coded entry - Serum sodium level (XE2q0) 136 mmol/L [136 - 145]
+## 12 August 2021
+Langley Corner Surgery (General Practice) - Simone Johnston
+- Coded entry - Third pneumococcal vaccination invitation letter sent (XaLI8)
+## 29 July 2021
+Langley Corner Surgery (General Practice) - Simone Johnston (Systems Support Access Role)
+- Coded entry - Administration note (XaIg4)
+- Coded entry - Short message service text message sent to patient (XaMiI)
+## 29 June 2021
+Langley Corner Surgery (General Practice) - Dr Emma Murphy (Clinical Practitioner Access Role)
+- Coded entry - Patient telephone number (9159.)
+- Coded entry - Short message service text message sent to patient (XaMiI)
+## 29 June 2021
+Langley Corner Surgery (General Practice) - Dr Emma Murphy (Clinical Practitioner Access Role)
+- Test request - Pathology Request (Complete):; Full Blood Count (Requested), Bone profile (Requested), Electrolytes &amp; Creatinine (Requested), Glycated haemoglobin (HbA1c) (Requested), Liver Function Test (Requested), Lipids (Requested), Thyroid Function tests (Requested)
+## 15 April 2021
+Langley Corner Surgery (General Practice) - Simone Johnston
+- Coded entry - Second pneumococcal vaccination invitation letter sent (XaLI6)
+## 10 March 2021
+Langley Corner Surgery (General Practice) - Simone Johnston
+- Coded entry - First pneumococcal vaccination invitation letter sent (XaLI5)
+## 8 March 2021
+Langley Corner Surgery (General Practice) - Tracie Newark (Systems Support Access Role)
+- Coded entry - Additional SCR dataset uploaded under COPI Regulations (Y237d)
+## 8 March 2021
+Langley Corner Surgery (General Practice) - Simone Johnston
+- Coded entry - Severe acute respiratory syndrome coronavirus 2 vaccination invitation short message service text message sent (situation) (Y211f)
+## 23 February 2021
+Langley Corner Surgery (General Practice) - Narissa Agyeman-Badu (Systems Support Access Role)
+- Coded entry - Additional SCR dataset uploaded under COPI Regulations (Y237d)
+## 18 February 2021
+Langley Corner Surgery (General Practice) - Simone Johnston (Systems Support Access Role)
+- Coded entry - Never smoked tobacco (XE0oh)
+- Coded entry - Smoking cessation advice (Ua1Nz)
+- Coded entry - Patient allocated named accountable general practitioner (XacWQ)
+- Coded entry - Informing patient of named accountable general practitioner (Xab9D)
+## 18 February 2021
+Langley Corner Surgery (General Practice) - Simone Johnston (Systems Support Access Role)
+- Coded entry - Main spoken language English (XaG5t)
+- Coded entry - Married (XE0oa)
+- Coded entry - Indian or British Indian - ethnic category 2001 census (XaJR2)
+- Coded entry - Unemployed (13J7.)
+## 1 January 2010
+Langley Corner Surgery (General Practice) - Dr Ketan Kansagra (Clinical Practitioner Access Role)
+- Coded entry - Major: Type II diabetes mellitus (X40J5) (New Episode)
+## 1 January 2000
+Langley Corner Surgery (General Practice) - Dr Jill Avery (Clinical Practitioner Access Role)
+- Coded entry - Major: Asthma (H33..) (New Episode)
+No further information available.
+You may see medical abbreviations that you are not familiar with.
+<!-- image -->
+Help with abbreviations (Link: https://www.nhs.uk/using-thenhs/nhs-services/the-nhs-app/abbreviations/)
+<!-- image -->
+Back (Link: #)
+## Acute (short-term) medicines
+## 6 January 2025
+Nitrofurantoin 100mg modified-release capsules - 6 capsule - Take ONE capsule TWICE daily for 3 days, to treat infection
+## 6 January 2025
+Fresubin Jucy drink (Flavour Not Specified) - 1600 ml - take one daily
+## 3 January 2025
+Gabapentin 300mg capsules - 100 capsule - take 1 tablet in morning, one in afternoon and 2 at night for 1 week, then one in morning, 2 in the afternoon and 2 night for 1 week then 2 in the morning, 2 in the afternoon and 2 at night
+## 22 November 2024
+Folic acid 5mg tablets - 112 tablet - Take one daily for 4 months.
+No further information available.
+You may see medical abbreviations that you are not familiar with.
+<!-- image -->
+Help with abbreviations (Link: https://www.nhs.uk/using-thenhs/nhs-services/the-nhs-app/abbreviations/)
+<!-- image -->
+Back (Link: #)
+## Repeat medicines: current
+## 10 February 2025
+Gabapentin 300mg capsules - 300 capsule - Take 2 three times a day
+## 11 December 2024

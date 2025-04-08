@@ -1,0 +1,88 @@
+- Coded entry - O/E - left eye no maculopathy (XaKCK)
+- Coded entry - O/E - no left diabetic retinopathy (XaIPj)
+## 17 September 2023
+Langley Corner Surgery (General Practice) - Dr Bilal Ali (Clinical Practitioner Access Role)
+- Test result - Quantitative faecal immunochemical test Report, Normal, No Further Action. Review not applicable
+- Coded entry - Quantitative faecal immunochemical test (Xaf0H)
+## 4 September 2023
+Langley Corner Surgery (General Practice) - Karen Martin (Receptionist Access Role)
+- Coded entry - Short message service text message sent to patient (XaMiI)
+- Coded entry - Patient telephone number (9159.)
+## 4 September 2023
+Langley Corner Surgery (General Practice) - Karen Martin (Receptionist Access Role)
+- Referral out - Hospital Fast track referral for suspected lower GI cancer
+- Coded entry - Choice and booking enhanced services administration (XaMJa)
+- Coded entry - Fast track referral for suspected lower GI cancer (Xaalp)
+## 22 August 2023
+Langley Corner Surgery (General Practice) - Alice Tester (Receptionist Access Role)
+- Coded entry - Patient telephone number (9159.)
+- Coded entry - Short message service text message sent to patient (XaMiI)
+## 22 August 2023
+Langley Corner Surgery (General Practice) - Karen Martin (Receptionist Access Role)
+- Coded entry - Patient telephone number (9159.)
+- Coded entry - Short message service text message sent to patient (XaMiI)
+## 21 August 2023
+Langley Corner Surgery (General Practice) - Dr Ketan Kansagra (Clinical Practitioner Access Role)
+- Coded entry - Short message service text message sent to patient (XaMiI)
+- Coded entry - Patient telephone number (9159.)
+- Coded entry - Cancer safety netting (Y281b)
+## 21 August 2023
+Langley Corner Surgery (General Practice) - Dr Ketan Kansagra (Clinical Practitioner Access Role)
+- Coded entry - Patient telephone number (9159.)
+- Coded entry - Short message service text message sent to patient (XaMiI)
+## 21 August 2023
+Langley Corner Surgery (General Practice) - Dr Ketan Kansagra (Clinical Practitioner Access Role)
+- Referral out - Hospital Refer for ultrasound investign
+- Referral out - Hospital Fast track referral for suspected lower GI cancer
+- Medication - Ferrous sulfate 200mg tablets - 56 tablet - take one once daily
+- Coded entry - Refer for ultrasound investign (8HQ2.)
+- Coded entry - Telephone consultation (XaIge)
+- Coded entry - Fast track referral for suspected lower GI cancer (Xaalp)
+## 11 August 2023
+Langley Corner Surgery (General Practice) - Dr Ketan Kansagra (Clinical Practitioner Access Role)
+- Coded entry - Short message service text message sent to patient (XaMiI)
+- Coded entry - Patient telephone number (9159.)
+## 11 August 2023
+Langley Corner Surgery (General Practice) - Dr Ketan Kansagra (Clinical Practitioner Access Role)
+- Test result - B12 AND SERUM FOLATE;Serum ferritin level;Serum TSH level Report, Borderline, Need to speak to doctor (Patient Informed). Review not applicable
+- Coded entry - Serum vitamin B12 level (XE2pf) 312 ng/L [200 - 900]
+- Coded entry - Serum folate level (42U5.) 3.5 ng/ml [3 - 20.5]
+- Coded entry - Serum ferritin level (XE24r) 25 ng/ml [30 - 250]
+- Coded entry - Serum TSH level (XaELV) 1.76 miu/L [0.35 - 4.94]
+## 11 August 2023
+Langley Corner Surgery (General Practice) - Dr Ketan Kansagra (Clinical Practitioner Access Role)
+- Test result - Bone profile;CREATININE AND ELECTROLYTES, BLOOD;Serum C reactive protein level;FULL LIPID PROFILE;Liver function tests Report, Satisfactory, No Further Action. Review not applicable
+- Coded entry - Serum potassium level (XE2pz) 4.5 mmol/L [3.5 - 5.3]
+- Coded entry - Serum creatinine level (XE2q5) 68 umol/L [49 - 90]
+- Coded entry - Serum sodium level (XE2q0) 144 mmol/L [133 - 146]
+- Coded entry - Serum alkaline phosphatase level (XE2px) 115 iu/L [30 130]
+- Coded entry - Serum albumin level (XE2eA) 44 g/L [35 - 50]
+- Coded entry - eGFR using creatinine (CKD-EPI) per 1.73 square metres (XacUK) 71 mL/min [90 - 120]
+- Coded entry - Serum HDL cholesterol level (44P5.) 0.97 mmol/L [1.2 - 5]
+- Coded entry - Serum cholesterol level (XE2eD) 2.9 mmol/L
+- Coded entry - Serum C reactive protein level (XaINL)
+- Coded entry - Serum C reactive protein level (XaINL) &lt; 1 mg/L [0 - 5]
+- Coded entry - Serum non high density lipoprotein cholesterol level (XabE1) 1.9 mmol/L
+- Coded entry - Liver function tests (X77WP)
+- Coded entry - Serum LDL cholesterol level (44P6.) 1.5 mmol/L
+- Coded entry - Serum triglyceride levels (XE2q9) 1 mmol/L [0 - 1.7]
+- Coded entry - Serum cholesterol/HDL ratio (XaEUq) 3 mmol/mmol
+- Coded entry - Serum total bilirubin level (XaERu) 10 umol/L [0 - 20]
+- Coded entry - Serum adjusted calcium concentration (Xabpk) 2.55 mmol/L [2.2 - 2.6]
+- Coded entry - Serum inorganic phosphate level (XE2q4) 1.23 mmol/L [0.8 - 1.5]
+- Coded entry - Serum calcium level (XE2q3) 2.55 mmol/L
+- Coded entry - Serum alanine aminotransferase level (XaLJx) 25 iu/L [0 55]
+- Coded entry - Bone profile (44Z2.)
+## 11 August 2023
+Langley Corner Surgery (General Practice) - Dr Ketan Kansagra (Clinical Practitioner Access Role)
+- Test result - Haemoglobin A1c level - IFCC standardised;Full blood count Report, Satisfactory, No Further Action. Review not applicable
+- Coded entry - Red blood cell distribution width (XE2mO) 15.1 % [11 15]
+- Coded entry - Mean platelet volume (42Z5.) 11.7 fL
+- Coded entry - Mean cell haemoglobin concentration (429..) 31.3 g/dL [29 - 35]
+- Coded entry - Mean cell volume (42A..) 81.7 fL [75 - 105]
+- Coded entry - Mean cell haemoglobin level (XE2pb) 25.6 pg [26 - 35]
+- Coded entry - Eosinophil count - observation (42K..) 0.3 10^9/L [0 - 0.4]
+- Coded entry - Basophil count (42L..) 0.1 10^9/L [0 - 0.1]
+- Coded entry - Monocyte count - observation (42N..) 0.7 10^9/L [0.2 0.8]
+- Coded entry - Neutrophil count (42J..) 4.9 10^9/L [2 - 7.5]
+- Coded entry - Lymphocyte count (42M..) 2.2 10^9/L [1 - 4]

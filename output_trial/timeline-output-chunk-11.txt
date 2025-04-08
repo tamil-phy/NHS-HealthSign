@@ -1,0 +1,81 @@
+- Medication - (R) Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd) - 60 dose - inhale 1 dose twice daily
+## 8 June 2023
+Langley Corner Surgery (General Practice) - Karolina Myszka (Receptionist Access Role)
+- Coded entry - Minor: Peripheral vascular disease (Xa0lV) (New Episode)
+- Coded entry - Minor: Diagnostic angiography (XaC2T) (New Episode)
+- Coded entry - Major: Angioplasty - action (Xa2Bc) (New Episode)
+## 26 May 2023
+Langley Corner Surgery (General Practice) - Ms Natalie Greenall (Pharmacist)
+- Medication template - Gabapentin 300mg capsules - 168 capsule - take one 3 times a day; Ended 22 Nov 2024 Re-Authorised by Dr Jude Gunasegaram
+- Medication - (R) Gabapentin 300mg capsules - 84 capsule - take one 3 times a day
+## 23 May 2023
+Langley Corner Surgery (General Practice) - Karolina Myszka (Receptionist Access Role)
+- Coded entry - Major: Paranoid disorder (E12..) (New Episode)
+## 19 May 2023
+Langley Corner Surgery (General Practice) - Dr Tahira Khan (Clinical Practitioner Access Role)
+- Test result - Urine albumin level Report, Normal, No Further Action. Review not applicable
+- Coded entry - Urine creatinine level (XE2qO) 4.8 mmol/L
+- Coded entry - Urine albumin level (XE2eI)
+- Coded entry - Urine albumin level (XE2eI) &lt; 5 mg/L
+- Coded entry - Urine albumin/creatinine ratio (XE2n3)
+## 18 May 2023
+Langley Corner Surgery (General Practice) - Sharon Atkinson (Nurse Access Role)
+- Medication - Salamol 100micrograms/dose Easi-Breathe inhaler (Teva UK Ltd) - 200 dose - Inhale ONE to TWO doses as needed (Please return your empty or unwanted inhalers to a pharmacy for disposal)
+- Coded entry - Asthma never causes daytime symptoms (XaINa)
+- Coded entry - Asthma monitoring by nurse (XaIu5)
+- Coded entry - Asthma annual review (XaIeq)
+- Coded entry - Asthma never causes night symptoms (XaY2V)
+- Coded entry - Number of prescriptions for reliever inhaler per year (Xafey)
+- Coded entry - Bronchodilator used infrequently (XaZ4m)
+- Coded entry - Asthma not limiting activities (663Q.)
+- Coded entry - Number of asthma exacerbations in past year (XaINh) 0
+- Coded entry - Routine (X78uI)
+- Coded entry - Asthma Control (Y0024)
+- Coded entry - Asthma control test (XaQHq) 24 - ; Did your asthma prevent you from getting as much done at work/school/home?: None of the time; Have you had shortness of breath?: None at all; Did your asthma symptoms wake you up at night or early in the morning?: Not at all; Have you used your reliever inhaler (usually blue)?: Not at all; How would you rate your asthma control?: Well controlled
+- Coded entry - Asthma control test (XaQHq) 24
+- Coded entry - Asthma control test (XaQHq) 24
+- Coded entry - Using inhaled steroids - normal dose (663g1)
+- Coded entry - Never smoked tobacco (XE0oh)
+- Coded entry - Informing patient of test result process (XaZq2)
+- Coded entry - Consultation (Xa1qL)
+- Coded entry - Overview Notes (Y0028)
+- Coded entry - Infectious disease : prevention/control (XE1Sf)
+- Coded entry - Unsuccessful phlebotomy (XacFJ)
+- Coded entry - Medication review done (XaF8d)
+- Coded entry - Chronic disease management annual review completed (Xaagy)
+- Coded entry - Patient given advice (8CA..)
+- Coded entry - Clinical examination (XB001)
+- Coded entry - Plan (XaIVg)
+- Coded entry - Use of aseptic technique (Ua1Rc)
+- Coded entry - Inhaler technique - good (663H.)
+- Coded entry - Treatment not indicated (8I6..)
+- Coded entry - Good compliance with inhaler (XaIPs)
+- Coded entry - Chronic disease - good control (661A.)
+- Coded entry - Asthma medication review (XaIfK)
+- Coded entry - Referral to hospital phlebotomist (XaKvT)
+- Coded entry - Informed consent given (XaLQR)
+- Coded entry - Plan (XaIVg)
+- Coded entry - Asthma self-management plan review (XaYZB)
+- Coded entry - Clinical history and observations (X76sV)
+## 18 May 2023
+Langley Corner Surgery (General Practice) - Sharon Atkinson (Nurse Access Role)
+- Test request - Pathology Request (Complete):; Albumin:Creatinine Ratio, Urine (Requested)
+- Test request - Pathology Request (Complete):; Haemoglobin A1c, Blood (Requested), Vitamin B12/Folate Levels, Blood (Requested), Creatinine &amp; Electrolytes Profile, Blood (Requested), Full Blood Count, Blood (Requested), Liver Function Profile, Blood (Requested), Lipid: NonFasting Profile, Blood (Requested), Thyroid Stimulating Hormone Level, Blood (Requested), Urea Level, Blood (Requested)
+## 6 May 2023
+Langley Corner Surgery (General Practice) - Dr Ketan Kansagra (Clinical Practitioner Access Role)
+- Test result - FAECAL PCR;Clostridium difficile toxin detection Report, Normal, No Further Action. Review not applicable
+- Coded entry - Clostridium difficile toxin detection (XaJqa)
+- Coded entry - Clostridium difficile toxin detection (XaJqa)
+- Coded entry - Faeces appearance (XaJGK)
+## 1 May 2023
+Langley Corner Surgery (General Practice) - Dr Ketan Kansagra (Clinical Practitioner Access Role)
+- Coded entry - Minor: CT of head (X70my)
+## 28 April 2023
+Langley Corner Surgery (General Practice) - Emma Jones (Pharmacist)
+- Medication template - Aspirin 75mg tablets - 28 tablet - one each morning until 10/4/23 as per discharge; Ended 03 Jul 2023 ReAuthorised by Ms Natalie Greenall
+- Medication template - Atorvastatin 40mg tablets - 28 tablet - take one daily; Ended 03 Jul 2023 Re-Authorised by Ms Natalie Greenall
+- Medication template - Clopidogrel 75mg tablets - 28 tablet - take one once daily and as per discharge 10.04.23; Ended 03 Jul 2023 ReAuthorised by Ms Natalie Greenall
+- Medication template - Lansoprazole 15mg gastro-resistant capsules (A A H Pharmaceuticals Ltd) - 56 capsule - Two to be taken Daily as per letter 10.4.23; Ended 03 Jul 2023 Re-Authorised by Ms Natalie Greenall
+- Medication - (R) Aspirin 75mg tablets - 28 tablet - one each morning until 10/4/23 as per discharge
+- Medication - (R) Atorvastatin 40mg tablets - 28 tablet - take one daily
+- Medication - (R) Clopidogrel 75mg tablets - 28 tablet - take one once daily and as per discharge 10.04.23
